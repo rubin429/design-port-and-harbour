@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T17:29:53.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="o_BdKKhw8KV3TFrGPsS9" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T17:33:21.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="rU4JWe2jw-bA15gVPd_q" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="1351" dy="5604" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="5441" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -465,7 +465,7 @@
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-68" value="Kualitas Bahan dan Material Struktur Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1524" y="-1843" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ws4u6goq_V8mnw8VZYxV-69" value="Kombinasi Pembebanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-69" value="Kriteria Pembebanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1524" y="-1357" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#80FF00;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Ws4u6goq_V8mnw8VZYxV-74" target="Ws4u6goq_V8mnw8VZYxV-67">
@@ -499,22 +499,34 @@
           <mxGeometry x="1644" y="-1441" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-86" value="Ultimate Limit State" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="1684" y="-1297" width="120" height="60" as="geometry" />
+          <mxGeometry x="2111" y="-891" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-87" value="Serviceablity Limit State" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="1684" y="-1206" width="120" height="60" as="geometry" />
+          <mxGeometry x="2111" y="-609" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-90" value="Analisa Struktur Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="-1146" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="-935" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-92" value="Struktur Beton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1524" y="-1086" width="120" height="60" as="geometry" />
+          <mxGeometry x="1524" y="-875" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-93" value="Balok" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1681" y="-767" width="120" height="60" as="geometry" />
+          <mxGeometry x="1681" y="-556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-94" value="Pelat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1684" y="-1026" width="120" height="60" as="geometry" />
+          <mxGeometry x="1684" y="-815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-97" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Beban Vertikal&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="2305" y="-831" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-98" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Beban Vertikal&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="2305" y="-740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-99" value="Beban Vertikal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1684" y="-1297" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-100" value="Beban Mati Merata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1878" y="-1237" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
