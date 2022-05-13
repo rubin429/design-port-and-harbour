@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T13:48:40.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="DcdgQJhffH7y3SJaV008" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T13:49:31.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="84RhX8fh_EFggEzBJx5u" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="1261" dy="4161" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -252,6 +252,9 @@
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-102" value="Koordinat Lokasi" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="615" y="-2977" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-1" value="BS 6349-1:2000" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="-2913" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
