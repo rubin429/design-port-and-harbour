@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T14:33:33.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hlC3LXk9roY-rZ7Cd0eF" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T14:34:15.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NZn-iiFJYX9-K6s_aeku" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="1113" dy="4060" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -381,6 +381,9 @@
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-45" value="Konfigurasi Kapal bertambat di dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1342" y="-1046" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-46" value="Energi Tarik Kapal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1517" y="-1046" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
