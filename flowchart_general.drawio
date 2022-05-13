@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T15:17:06.792Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wDFDpMdN5vofl38Ic-rS" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T15:33:12.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OdrQpDpAalbYodZ8tVPC" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="1351" dy="5604" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -463,7 +463,7 @@
           <mxGeometry x="1524" y="-1843" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-69" value="Kombinasi Pembebanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1524" y="-1474" width="120" height="60" as="geometry" />
+          <mxGeometry x="1524" y="-1357" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#80FF00;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Ws4u6goq_V8mnw8VZYxV-74" target="Ws4u6goq_V8mnw8VZYxV-67">
           <mxGeometry relative="1" as="geometry" />
@@ -475,7 +475,7 @@
           <mxGeometry x="1684" y="-1783" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-77" value="Struktur Baja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1684" y="-1629" width="120" height="60" as="geometry" />
+          <mxGeometry x="1684" y="-1512" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#80FF00;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ws4u6goq_V8mnw8VZYxV-78" target="Ws4u6goq_V8mnw8VZYxV-76">
           <mxGeometry relative="1" as="geometry" />
@@ -487,13 +487,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-80" value="ASTM A252" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1804" y="-1716" width="120" height="80" as="geometry" />
+          <mxGeometry x="1804" y="-1599" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#80FF00;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Ws4u6goq_V8mnw8VZYxV-84" target="Ws4u6goq_V8mnw8VZYxV-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ws4u6goq_V8mnw8VZYxV-84" value="ASTM A252" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1644" y="-1558" width="120" height="80" as="geometry" />
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-84" value="ASCE 07" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1644" y="-1441" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-86" value="Ultimate Limit State" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="1684" y="-1297" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-87" value="Serviceablity Limit State" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="1684" y="-1206" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-88" value="Fatigue Limit State" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="1684" y="-1115" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
