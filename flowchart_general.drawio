@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T17:26:59.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OL23bUrJz-Zcq9akzzu1" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T17:29:53.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="o_BdKKhw8KV3TFrGPsS9" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="1351" dy="5604" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -506,6 +506,15 @@
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-90" value="Analisa Struktur Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="-1146" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-92" value="Struktur Beton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1524" y="-1086" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-93" value="Balok" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1681" y="-767" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-94" value="Pelat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1684" y="-1026" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
