@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T20:38:58.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="jBQXYrdw_0sWW4ntNe7w" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T20:40:30.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="m962LB_3z3CEPiU3QtFH" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="4611" dy="10233" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -474,19 +474,6 @@
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-28" value="saat operasi bongkar - muat muatan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1890" y="-2689.5" width="129" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ws4u6goq_V8mnw8VZYxV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" target="Ws4u6goq_V8mnw8VZYxV-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2456" y="-2496" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ws4u6goq_V8mnw8VZYxV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2256" y="-2377.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ws4u6goq_V8mnw8VZYxV-32" value="Kebutuhan jumlah fender" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2396" y="-2475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-85" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=arc;jumpSize=30;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="1" source="Ws4u6goq_V8mnw8VZYxV-37" target="ruiceTiGWFp82l53x4zg-73">
           <mxGeometry relative="1" as="geometry">
