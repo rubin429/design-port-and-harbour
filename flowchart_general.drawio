@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T16:10:03.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mKLErGLkglgJuwL-NTYa" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T16:11:00.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EmdRK7LUCPEZ-TVpd_Fn" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="1261" dy="5542" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="5327" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1084,6 +1084,12 @@
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-125" value="Rencana Anggaran Biaya Perbaikan dan Perkuatan Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4316" y="-3534" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-128" value="Eksisting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1726" y="-4029" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-129" value="Evaluasi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1855" y="-4032" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
