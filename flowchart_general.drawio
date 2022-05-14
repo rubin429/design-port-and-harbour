@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:00:58.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="pWt2Aa5qm86sgbj2mAK4" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:02:56.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="JO9QrWrhcA8FSAnso0Ei" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="1475" dy="5661" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="5363" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-2" target="v9qTnyX4O629vSzhhKhX-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1243" y="-4117" />
+              <mxPoint x="1243" y="-3403" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-2" value="Fasilitas Perairan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="984" y="-4147" width="120" height="60" as="geometry" />
@@ -164,11 +169,8 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-10" value="Kolam Putar" style="rounded=0;whiteSpace=wrap;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="1260.25" y="-3626" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-11" target="v9qTnyX4O629vSzhhKhX-83" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-11" value="Kolam Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1260.25" y="-3433.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1260.25" y="-3270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-18" target="v9qTnyX4O629vSzhhKhX-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -292,29 +294,24 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-76" value="Area Kolam Putar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1434.25" y="-3566" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-83" target="v9qTnyX4O629vSzhhKhX-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v9qTnyX4O629vSzhhKhX-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" target="v9qTnyX4O629vSzhhKhX-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1730.25" y="-3343.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-83" value="Kondisi perairan Kolam Putar" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1435.25" y="-3373.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-84" target="v9qTnyX4O629vSzhhKhX-87" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-84" target="v9qTnyX4O629vSzhhKhX-91" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-84" value="Sistem Berlabuh di Kolam Dermaga" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1610.25" y="-3373.5" width="120" height="60" as="geometry" />
+        <mxCell id="v9qTnyX4O629vSzhhKhX-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" target="v9qTnyX4O629vSzhhKhX-91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1730.25" y="-3343.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-87" value="Area Kolam Putar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1785.25" y="-3313.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-88" value="Di bantu oleh kapal pandu dan tunda (&lt;i&gt;tugboats)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1610.25" y="-3313.5" width="140" height="62.5" as="geometry" />
+          <mxGeometry x="1556.25" y="-3330" width="140" height="58" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-89" value="Ruang kolam terbatas." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1435.25" y="-3313.5" width="140" height="20" as="geometry" />
+          <mxGeometry x="1554.25" y="-3396" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-91" value="Kedalaman Kolam Putar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1785.25" y="-3242.5" width="120" height="60" as="geometry" />
@@ -1146,6 +1143,26 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-27" value="Sistem Putar Kapal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1434.25" y="-3686" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-32" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-30" target="v9qTnyX4O629vSzhhKhX-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="-3320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-30" value="Kondisi perairan Kolam Putar" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1434.25" y="-3401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-33" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-31" target="v9qTnyX4O629vSzhhKhX-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="-3300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-31" value="Sistem Berlabuh di Kolam Dermaga" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1434.25" y="-3330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
