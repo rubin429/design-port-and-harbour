@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T22:33:57.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="vyl9b0Kz4ZL1W_Lnb9Kt" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T22:35:43.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="tYq-N5A1oAG-fSaeQvIB" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4424" dy="10109" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4611" dy="10233" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -748,12 +748,6 @@
         <mxCell id="f_qC7edfCxjkWxqN1Lxj-32" value="Accidental actions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2249" y="-1952" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VFgx5lIHe6SfGSV5nusP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#000000;dashed=1;" parent="1" source="VFgx5lIHe6SfGSV5nusP-1" target="Ws4u6goq_V8mnw8VZYxV-90" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VFgx5lIHe6SfGSV5nusP-1" value="BS 6349-2:2010 pasal A.3.3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1742" y="-1522" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-4" value="Persistent dan Transient" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2428.5" y="-1823" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1457,6 +1451,9 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-141" value="Perencanaan Detail Tulangan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2190" y="-297.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-142" value="BS 6349-2:2010 pasal A.3.3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2050.5" y="-1174" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
