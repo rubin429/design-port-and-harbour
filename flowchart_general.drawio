@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T18:35:25.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="VqbiNtdjrY9kUchYatsQ" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T18:38:14.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ig_uUfS-dRj3S_fde3fM" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="621" dy="5094" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -323,14 +323,14 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-98" value="Peta Bathymetri perairan dermaga" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="784" y="-4304" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-99" target="v9qTnyX4O629vSzhhKhX-98" edge="1">
+        <mxCell id="v9qTnyX4O629vSzhhKhX-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-99" target="v9qTnyX4O629vSzhhKhX-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-99" value="Lokasi Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622" y="-4364" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-102" value="Koordinat Lokasi" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="622" y="-4304" width="280" height="30" as="geometry" />
+          <mxGeometry x="604" y="-4237" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#000000;dashed=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-1" target="v9qTnyX4O629vSzhhKhX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -344,7 +344,7 @@
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-3" value="PIANC 2014" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="759" y="-4087" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ws4u6goq_V8mnw8VZYxV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-5" target="v9qTnyX4O629vSzhhKhX-102" edge="1">
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-5" target="v9qTnyX4O629vSzhhKhX-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-5" value="Pushidrosal TNI AL 2017" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
