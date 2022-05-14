@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T18:49:07.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="LCNVVcgl94YQzLQMYkbZ" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T18:52:15.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="SFucn-yYAbkicDsrXh68" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="492" dy="5008" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="908" dy="5284" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-2" target="v9qTnyX4O629vSzhhKhX-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1243" y="-4117" />
+              <mxPoint x="1243" y="-4057" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-2" target="v9qTnyX4O629vSzhhKhX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -134,11 +139,8 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-8" value="Alur Pelayaran" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1262.75" y="-4459" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-9" target="v9qTnyX4O629vSzhhKhX-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-9" value="Area Penjangkaran" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1381.5" y="-4128.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1262.75" y="-3942" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-10" target="v9qTnyX4O629vSzhhKhX-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -252,29 +254,21 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-59" value="Kedalaman Alur" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1434.25" y="-4189" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-62" target="v9qTnyX4O629vSzhhKhX-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v9qTnyX4O629vSzhhKhX-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" target="v9qTnyX4O629vSzhhKhX-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1851.5" y="-4038.25" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-62" value="Lokasi dan kondisi perairan Area Penjangkaran" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1556.5" y="-4068.25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-63" target="v9qTnyX4O629vSzhhKhX-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-63" target="v9qTnyX4O629vSzhhKhX-67" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-63" value="Sistem &lt;i&gt;mooring&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1731.5" y="-4068.25" width="120" height="60" as="geometry" />
+        <mxCell id="v9qTnyX4O629vSzhhKhX-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" target="v9qTnyX4O629vSzhhKhX-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1851.5" y="-4038.25" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-66" value="Area Penjangkaran" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1906.5" y="-4008.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-67" value="Kedalaman Penjangkaran" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1906.5" y="-3935.75" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-68" value="Arah arus dan angin domian" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1556.5" y="-4008.25" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-73" value="Di bantu oleh kapal pandu dan tunda (&lt;i&gt;tugboats)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1524" y="-3394.5" width="140" height="62.5" as="geometry" />
@@ -1107,6 +1101,26 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-14" value="Alignment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1435.25" y="-4399" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-20" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-18" target="v9qTnyX4O629vSzhhKhX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1323" y="-3996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-18" value="Lokasi dan kondisi perairan Area Penjangkaran" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1436.25" y="-4073" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-21" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-19" target="v9qTnyX4O629vSzhhKhX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1323" y="-3966" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-19" value="Sistem &lt;i&gt;mooring&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1435.25" y="-4002" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
