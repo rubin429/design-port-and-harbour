@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T15:40:11.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6BqASEx33SotGtfh8FEq" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T15:41:42.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="F_m6cmMUGTlFA0Sr4eCL" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="996" dy="5361" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -967,6 +967,9 @@
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-82" value="Rekapitulasi Hasil Evaluasi Fender dan Bollard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3539" y="-4413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-84" value="P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3696" y="-4454" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
