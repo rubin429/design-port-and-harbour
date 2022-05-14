@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:49:24.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ke8xlaF3896iiCs1dHRe" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:51:01.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="3ZAdhy-JQ-g9-P72OuZr" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="3921" dy="9775" grid="1" gridSize="23" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4775" dy="10342" grid="1" gridSize="23" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
             <mxPoint x="237" y="-4454" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="299" y="-4128" />
-              <mxPoint x="299" y="-4225" />
+              <mxPoint x="299" y="-4193" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -221,11 +221,11 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-42" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9qTnyX4O629vSzhhKhX-20" target="ruiceTiGWFp82l53x4zg-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="633" y="-4208" as="targetPoint" />
+            <mxPoint x="632" y="-4176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-20" value="Jenis Muatan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="382" y="-4255" width="120" height="60" as="geometry" />
+          <mxGeometry x="381" y="-4223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-21" target="v9qTnyX4O629vSzhhKhX-40" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -262,7 +262,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552" y="-4454" />
-              <mxPoint x="552" y="-4306" />
+              <mxPoint x="552" y="-4275" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -276,7 +276,7 @@
           <mxGeometry x="97" y="-4098" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-29" value="Pupuk urea kantong" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="382" y="-4195" width="139" height="30" as="geometry" />
+          <mxGeometry x="381" y="-4163" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-30" value="&lt;i&gt;General Cargo 6000DWT&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="384" y="-3972" width="280" height="30" as="geometry" />
@@ -284,7 +284,7 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-31" target="v9qTnyX4O629vSzhhKhX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="929" y="-4306" />
+              <mxPoint x="929" y="-4275" />
               <mxPoint x="929" y="-4117" />
             </Array>
           </mxGeometry>
@@ -292,13 +292,13 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-31" target="v9qTnyX4O629vSzhhKhX-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="929" y="-4306" />
+              <mxPoint x="929" y="-4275" />
               <mxPoint x="929" y="-2850" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-31" value="Jenis Dermaga:&lt;br&gt;Open-Wharf Type" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="628" y="-4339" width="120" height="60" as="geometry" />
+          <mxGeometry x="627" y="-4305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-96" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;verticalAlign=middle;horizontal=1;rounded=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=1;" parent="1" source="v9qTnyX4O629vSzhhKhX-40" target="v9qTnyX4O629vSzhhKhX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -380,9 +380,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1044" y="-4170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1104" y="-4657" />
-              <mxPoint x="1104" y="-4393" />
-              <mxPoint x="1044" y="-4393" />
+              <mxPoint x="1104" y="-4600" />
+              <mxPoint x="1104" y="-4278" />
+              <mxPoint x="1044" y="-4278" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1244,7 +1244,7 @@
           <mxGeometry x="-69" y="-4158" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-40" value="Jumlah volume muatan per tahun" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="628" y="-4252" width="122" height="54" as="geometry" />
+          <mxGeometry x="627" y="-4220" width="122" height="54" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-45" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-44" target="Ws4u6goq_V8mnw8VZYxV-9">
           <mxGeometry relative="1" as="geometry">
