@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:53:02.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="8QYLZr7HPMq-XMFUowvx" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:56:54.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="r4VTvGGjjdCPbxSzDKv6" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="3890" dy="9754" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4480" dy="10146" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,21 +380,20 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1044" y="-4170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1104" y="-4600" />
+              <mxPoint x="1104" y="-4765" />
               <mxPoint x="1104" y="-4278" />
               <mxPoint x="1044" y="-4278" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-98" value="Peta Bathymetri perairan dermaga" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="805" y="-4629" width="120" height="60" as="geometry" />
+          <mxGeometry x="805" y="-4795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ruiceTiGWFp82l53x4zg-46" target="v9qTnyX4O629vSzhhKhX-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="759" y="-4454" />
-              <mxPoint x="759" y="-4600" />
-              <mxPoint x="815" y="-4600" />
+              <mxPoint x="759" y="-4765" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -420,7 +419,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-5" value="Pushidrosal TNI AL 2017" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="925" y="-4712" width="120" height="80" as="geometry" />
+          <mxGeometry x="925" y="-4878" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-7" target="v9qTnyX4O629vSzhhKhX-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1262,7 +1261,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="748" y="-4477.86" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="782" y="-4462" />
               <mxPoint x="759" y="-4485.86" />
             </Array>
           </mxGeometry>
@@ -1281,28 +1279,28 @@
           <mxGeometry x="97" y="-4158" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-53" value="Data Pasang &lt;br&gt;Surut" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="805" y="-4484" width="120" height="60" as="geometry" />
+          <mxGeometry x="805" y="-4650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-54" value="Data Arus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="805" y="-4366" width="120" height="60" as="geometry" />
+          <mxGeometry x="805" y="-4510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-57" value="Pushidrosal TNI AL 2017" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="925" y="-4569" width="120" height="80" as="geometry" />
+          <mxGeometry x="925" y="-4735" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0.625;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="ruiceTiGWFp82l53x4zg-57" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="-4484.860000000001" as="targetPoint" />
+            <mxPoint x="880" y="-4650.860000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-59" value="ARLINDO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="925" y="-4446" width="120" height="80" as="geometry" />
+          <mxGeometry x="925" y="-4590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;exitX=0.006;exitY=0.424;exitDx=0;exitDy=0;dashed=1;entryX=0.625;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="919" y="-4410.14" as="sourcePoint" />
-            <mxPoint x="874" y="-4366.000000000001" as="targetPoint" />
+            <mxPoint x="919" y="-4554.14" as="sourcePoint" />
+            <mxPoint x="874" y="-4510.000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="874" y="-4412" />
+              <mxPoint x="874" y="-4556" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1311,6 +1309,21 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-61" value="PT PKT" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="782" y="-4255" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-63" value="Data Tanah" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="805" y="-4370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-64" value="BPPU-ITS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="925" y="-4450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;exitX=0.006;exitY=0.424;exitDx=0;exitDy=0;dashed=1;entryX=0.625;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925.0000000000002" y="-4416.08" as="sourcePoint" />
+            <mxPoint x="873.28" y="-4370.000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="873.28" y="-4416" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
