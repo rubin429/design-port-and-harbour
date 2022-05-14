@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T15:23:59.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Lx2qmbX5MrRRLiMsBwqo" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T15:26:34.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-rUyoI9H7XhtctcvcxdW" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="757" dy="5198" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -910,8 +910,11 @@
         <mxCell id="VFgx5lIHe6SfGSV5nusP-67" value="Kapasitas tegangan struktur dengan tegangan akibat beban" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3531" y="-4342" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VFgx5lIHe6SfGSV5nusP-68" value="Defleksi dan Deformasi Elemen Struktur Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-68" value="Defleksi dan deformasi elemen struktur dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3531" y="-4261" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-71" value="Perbandingan nilai drift struktur dermaga dengan drift izin&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3531" y="-4182" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
