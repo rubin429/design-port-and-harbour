@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:31:12.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="utFh85CW2sK-xz4ZpiUt" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:37:12.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Lb4EG7Wvla9-GnW0vpQR" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4143" dy="5241" grid="1" gridSize="23" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4174" dy="9943" grid="1" gridSize="23" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-24" value="&lt;i&gt;Dermaga&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="382" y="-4424" width="120" height="60" as="geometry" />
+          <mxGeometry x="382" y="-4484" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-26" value="Melayani distribusi pupuk urea (&lt;i&gt;dry bulk)&lt;/i&gt;&amp;nbsp;dalam satuan Ball" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="97" y="-4098" width="157" height="48" as="geometry" />
@@ -262,7 +262,7 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-30" value="&lt;i&gt;General Cargo 6000DWT&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="384" y="-3972" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-31" target="v9qTnyX4O629vSzhhKhX-2" edge="1">
+        <mxCell id="v9qTnyX4O629vSzhhKhX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-31" target="v9qTnyX4O629vSzhhKhX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="929" y="-4306" />
@@ -270,7 +270,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-31" target="v9qTnyX4O629vSzhhKhX-3" edge="1">
+        <mxCell id="v9qTnyX4O629vSzhhKhX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-31" target="v9qTnyX4O629vSzhhKhX-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="929" y="-4306" />
@@ -361,16 +361,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-98" value="Peta Bathymetri perairan dermaga" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="800" y="-4517" width="120" height="60" as="geometry" />
+          <mxGeometry x="804" y="-4629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-99" target="v9qTnyX4O629vSzhhKhX-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-99" value="Lokasi Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="624" y="-4517" width="120" height="60" as="geometry" />
+          <mxGeometry x="628" y="-4629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-102" value="Koordinat Lokasi" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-4457" width="93" height="30" as="geometry" />
+          <mxGeometry x="624" y="-4569" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#000000;dashed=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-1" target="v9qTnyX4O629vSzhhKhX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -388,7 +388,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-5" value="Pushidrosal TNI AL 2017" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="920" y="-4600" width="120" height="80" as="geometry" />
+          <mxGeometry x="924" y="-4712" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-7" target="v9qTnyX4O629vSzhhKhX-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1227,11 +1227,31 @@
         <mxCell id="ruiceTiGWFp82l53x4zg-44" value="Konfigurasi Kapal berlabuh di dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380.25" y="-2781" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-55" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-46" target="ruiceTiGWFp82l53x4zg-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="782" y="-4485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-56" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;entryX=0.09;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-46" target="ruiceTiGWFp82l53x4zg-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="782" y="-4439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-46" value="Kondisi Lingkungan Perairan Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="624" y="-4424" width="120" height="60" as="geometry" />
+          <mxGeometry x="624" y="-4484" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-49" value="Fungsi Terminal Khusus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="97" y="-4158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-53" value="Data Angin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="804" y="-4519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-54" value="Data Arus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="804" y="-4453" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
