@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T23:06:22.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="G_1F5SVcIH5hpX_OjEr1" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T23:07:20.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="BYC4J4hzgZkJdV-t-jS5" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4611" dy="10233" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4208" dy="9965" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1454,6 +1454,9 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-142" value="BS 6349-2:2010 pasal A.3.3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2050.5" y="-1174" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-143" value="Kapasitas Kekuatan Desain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2249" y="-1073" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
