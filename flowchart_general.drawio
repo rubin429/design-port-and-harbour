@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T22:32:31.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="nw84cS_ndMJASolClxGN" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T22:33:38.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="eJjw__H_oumPtg9qhpui" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="4424" dy="10109" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1441,7 +1441,7 @@
           <mxGeometry x="2050.5" y="-1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-136" value="Moda Kegagalan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2249" y="-1008" width="120" height="60" as="geometry" />
+          <mxGeometry x="2267" y="-1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-137" value="Aksial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2426.5" y="-1160" width="120" height="60" as="geometry" />
