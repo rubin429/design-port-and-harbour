@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T18:27:47.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="V83fqjJgejzNV95lxiEy" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T18:33:42.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="FBChIVE3D37IcyyjUEde" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="1312" dy="5394" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="437" dy="4971" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ws4u6goq_V8mnw8VZYxV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#80FF00;strokeWidth=2;dashed=1;startArrow=none;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-12" target="Ws4u6goq_V8mnw8VZYxV-9" edge="1">
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;dashed=1;startArrow=none;jumpStyle=arc;sketch=0;noJump=0;orthogonal=0;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-12" target="Ws4u6goq_V8mnw8VZYxV-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1021.5454545454543" y="-3058.3636363636365" as="targetPoint" />
             <Array as="points" />
@@ -1065,11 +1065,11 @@
         <mxCell id="ruiceTiGWFp82l53x4zg-1" value="Dimensi Dermaga dan Elevasi Puncak Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1175" y="-2951" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ruiceTiGWFp82l53x4zg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;endArrow=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9qTnyX4O629vSzhhKhX-40" target="Ws4u6goq_V8mnw8VZYxV-9">
+        <mxCell id="ruiceTiGWFp82l53x4zg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;endArrow=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=6;snapToPoint=0;" edge="1" parent="1" source="v9qTnyX4O629vSzhhKhX-40" target="Ws4u6goq_V8mnw8VZYxV-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1322" y="-2965" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1043" y="-3900" />
+              <mxPoint x="1043" y="-3899" />
               <mxPoint x="1043" y="-3058" />
               <mxPoint x="1319" y="-3058" />
               <mxPoint x="1319" y="-2873" />
