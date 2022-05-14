@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T15:49:32.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="P7jrHAr17cr__gINqFct" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T15:49:58.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HaYnRDxoxjDdIDqdigfc" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="996" dy="5361" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -989,7 +989,7 @@
         <mxCell id="VFgx5lIHe6SfGSV5nusP-90" value="Perbandingan kapasitas energi fender dan bollard terhadap beban tumbukan dan tarikan kapal" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#80FF00;strokeWidth=2;align=left;" vertex="1" parent="1">
           <mxGeometry x="3696" y="-4333" width="120" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="VFgx5lIHe6SfGSV5nusP-94" value="Perencanaan Fender dan Bollard Baru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-94" value="Perencanaan Kebutuhan Fender dan Bollard Baru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3853" y="-4393" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
