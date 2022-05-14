@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:12:09.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NCDZIuyvDktAAenhZ99Q" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:13:08.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="X1YU-qrw2wt7rfFC1GlW" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="1124" dy="5428" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -188,6 +188,9 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-18" value="Fungsi Pelabuhan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="117" y="-4484" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-42" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="v9qTnyX4O629vSzhhKhX-20" target="ruiceTiGWFp82l53x4zg-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-20" value="Jenis Muatan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="382" y="-4276" width="120" height="60" as="geometry" />
         </mxCell>
@@ -218,7 +221,7 @@
           <mxGeometry x="117" y="-4424" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-29" value="Pupuk urea kantong" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="382" y="-4216" width="280" height="30" as="geometry" />
+          <mxGeometry x="382" y="-4216" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-30" value="&lt;i&gt;General Cargo 6000DWT&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="384" y="-3972" width="280" height="30" as="geometry" />
@@ -324,7 +327,7 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-98" value="Peta Bathymetri perairan dermaga" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="800" y="-4517" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-99" target="v9qTnyX4O629vSzhhKhX-98" edge="1">
+        <mxCell id="v9qTnyX4O629vSzhhKhX-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-99" target="v9qTnyX4O629vSzhhKhX-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-99" value="Lokasi Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
