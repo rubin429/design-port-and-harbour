@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T22:29:28.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="We6fGXDhWM4GlittFDIB" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T22:30:02.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="RNKDD72TZK3OfDU9WtAU" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="4143" dy="9922" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1493,6 +1493,9 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-126" value="Nilai &lt;i&gt;Unitiy Check Ratio&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050.5" y="-1367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-135" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;jumpStyle=arc;jumpSize=30;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-127" target="Ws4u6goq_V8mnw8VZYxV-92">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-127" value="Gaya Dalam Struktur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050.5" y="-1290" width="120" height="60" as="geometry" />
