@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T16:21:40.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="khoh865Ew--sl-MVSMik" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T16:22:26.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="N7sQuABnO2lkKANFnN44" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="1183" dy="5489" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="321" dy="4900" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1017,6 +1017,9 @@
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-129" value="Evaluasi" style="text;html=1;strokeColor=#CC0000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1764" y="-4230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-141" value="Katalog Fender Trelleborg" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="4193" y="-3697" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
