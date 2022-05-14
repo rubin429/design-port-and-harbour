@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T15:35:24.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Uyefsq6MsOTbubzhyHva" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T15:36:42.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="debuNwW4a6Aw2_OF6SO6" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="757" dy="5198" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="5361" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -924,11 +924,26 @@
         <mxCell id="VFgx5lIHe6SfGSV5nusP-65" value="Kualitas bahan dan material struktur" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#80FF00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3528" y="-4364" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFgx5lIHe6SfGSV5nusP-67" target="VFgx5lIHe6SfGSV5nusP-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3908" y="-4349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-67" value="Kapasitas tegangan struktur dengan tegangan akibat beban" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#80FF00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3528" y="-4282" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="VFgx5lIHe6SfGSV5nusP-68" target="VFgx5lIHe6SfGSV5nusP-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3907.8" y="-4368.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-68" value="Defleksi dan deformasi elemen struktur dermaga" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#80FF00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3528" y="-4201" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFgx5lIHe6SfGSV5nusP-71" target="VFgx5lIHe6SfGSV5nusP-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3907.8" y="-4371.2" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-71" value="Perbandingan nilai drift struktur dermaga dengan drift izin&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#80FF00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3528" y="-4122" width="120" height="60" as="geometry" />
@@ -937,7 +952,7 @@
           <mxGeometry x="3688" y="-4424" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-76" value="Jenis Perkuatan Struktur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3873" y="-4424" width="120" height="60" as="geometry" />
+          <mxGeometry x="3848" y="-4424" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
