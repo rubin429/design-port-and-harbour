@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T21:53:49.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Fcw_GA9XhclGdW45RRju" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T21:55:23.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="VwHcvvPArBAjcj22XppT" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4424" dy="10109" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4326" dy="10044" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1368" y="-2850" />
-              <mxPoint x="1368" y="-2940" />
+              <mxPoint x="1368" y="-3215" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1112,15 +1112,15 @@
           <mxGeometry x="4155" y="-3657" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-1" value="Dimensi Dermaga dan Elevasi Puncak Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1432" y="-2970" width="120" height="60" as="geometry" />
+          <mxGeometry x="1432" y="-3245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=30;snapToPoint=0;endFill=1;" edge="1" parent="1" source="v9qTnyX4O629vSzhhKhX-40" target="ruiceTiGWFp82l53x4zg-87">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2099" y="-2809.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1116" y="-3709" />
-              <mxPoint x="1116" y="-3186" />
-              <mxPoint x="2258" y="-3186" />
+              <mxPoint x="1116" y="-3710" />
+              <mxPoint x="1116" y="-3340" />
+              <mxPoint x="2258" y="-3340" />
             </Array>
             <mxPoint x="869" y="-3899.5" as="sourcePoint" />
           </mxGeometry>
@@ -1128,13 +1128,12 @@
         <mxCell id="ruiceTiGWFp82l53x4zg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.011;exitY=0.447;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-4" target="ruiceTiGWFp82l53x4zg-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1552" y="-3014" />
-              <mxPoint x="1492" y="-3015" />
+              <mxPoint x="1492" y="-3289" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-4" value="BS 6349-2:2010 pasal 4.1.6" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1606" y="-3050" width="120" height="80" as="geometry" />
+          <mxGeometry x="1608" y="-3325" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-13" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=arc;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-11" target="v9qTnyX4O629vSzhhKhX-8">
           <mxGeometry relative="1" as="geometry">
@@ -1327,8 +1326,8 @@
             <mxPoint x="1462" y="-3027" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1323" y="-4620" />
-              <mxPoint x="1323" y="-3015" />
-              <mxPoint x="1492" y="-3015" />
+              <mxPoint x="1323" y="-3370" />
+              <mxPoint x="1492" y="-3370" />
             </Array>
           </mxGeometry>
         </mxCell>
