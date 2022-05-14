@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:28:41.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="pfnK53ZMW3PLjsOd6tJB" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:29:14.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="KMERuOBK9H-53PKRrOwF" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="1180" dy="5465" grid="1" gridSize="23" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1227,7 +1227,7 @@
         <mxCell id="ruiceTiGWFp82l53x4zg-46" value="Kondisi Lingkungan Perairan Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="624" y="-4424" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ruiceTiGWFp82l53x4zg-49" value="Fungsi Pelabuhan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ruiceTiGWFp82l53x4zg-49" value="Fungsi Terminal Khusus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="97" y="-4189" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
