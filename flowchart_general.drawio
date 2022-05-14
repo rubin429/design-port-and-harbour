@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T15:51:02.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="f_KdA1lDVycYCTmmqfQx" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T15:53:18.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3O6_pz0XTHUThxgfvbVy" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="996" dy="5361" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -920,7 +920,10 @@
             <mxPoint x="3596" y="-4098" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFgx5lIHe6SfGSV5nusP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="VFgx5lIHe6SfGSV5nusP-63" target="VFgx5lIHe6SfGSV5nusP-73">
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFgx5lIHe6SfGSV5nusP-63" target="VFgx5lIHe6SfGSV5nusP-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="VFgx5lIHe6SfGSV5nusP-63" target="VFgx5lIHe6SfGSV5nusP-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-63" value="Rekapitulasi Hasil Evaluasi Struktur Eksisting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -991,6 +994,9 @@
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-94" value="Perencanaan Kebutuhan Fender dan Bollard Baru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3853" y="-4393" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-98" value="Rencana Anggaran Biaya Perbaikan dan Perkuatan Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4136" y="-4574" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
