@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T22:00:24.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ShX1mdE26TimEJpTgNiX" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T22:00:47.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="oAdzlCxszP_WD_ljqn6B" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="3956" dy="9798" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1377,15 +1377,6 @@
         <mxCell id="ruiceTiGWFp82l53x4zg-91" value="BS 6349-4:2014 pasal 4.1.1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2109" y="-3380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ruiceTiGWFp82l53x4zg-92" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;dashed=1;startArrow=none;jumpStyle=arc;sketch=0;noJump=0;orthogonal=0;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-91" target="ruiceTiGWFp82l53x4zg-87">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2286.5" y="-2925.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1910" y="-3341" />
-            </Array>
-            <mxPoint x="2400.5" y="-3146" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-93" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-90" target="ruiceTiGWFp82l53x4zg-87">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2286.5" y="-2925.5" as="targetPoint" />
@@ -1441,6 +1432,18 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-109" value="Gaya Arus pada Kapal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2249" y="-1893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-123" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.513;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="ruiceTiGWFp82l53x4zg-91" target="ruiceTiGWFp82l53x4zg-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1944" y="-3300" as="targetPoint" />
+            <mxPoint x="2109" y="-3343.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1944" y="-3318" />
+              <mxPoint x="2258" y="-3140" />
+              <mxPoint x="2231" y="-3185" />
+              <mxPoint x="2113.5" y="-3131.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
