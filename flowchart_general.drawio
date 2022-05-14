@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:07:47.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="9SXjVQOnProJCC8By91m" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:09:04.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="MC96DBY60CUr_WCjyT4W" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="1388" dy="5603" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1124" dy="5428" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,8 +215,8 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-24" value="&lt;i&gt;Dermaga&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="382" y="-4424" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-26" value="Melayani distribusi pupuk urea (&lt;i&gt;dry bulk)&lt;/i&gt;&amp;nbsp;dalam bentuk kantong atau &lt;font color=&quot;#ff3333&quot;&gt;bal&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="122" y="-4413" width="157" height="48" as="geometry" />
+        <mxCell id="v9qTnyX4O629vSzhhKhX-26" value="Melayani distribusi pupuk urea (&lt;i&gt;dry bulk)&lt;/i&gt;&amp;nbsp;dalam satuan Ball" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="117" y="-4424" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-29" value="Pupuk urea kantong" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="382" y="-4216" width="280" height="30" as="geometry" />
