@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T22:30:02.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="RNKDD72TZK3OfDU9WtAU" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T22:30:46.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="_RmIdsaaMbHa4GUFYBZ6" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="4143" dy="9922" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -672,16 +672,8 @@
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-92" value="Stabilitas Struktur Atas Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1882" y="-1164" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VFgx5lIHe6SfGSV5nusP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-93" target="f_qC7edfCxjkWxqN1Lxj-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2192.529411764706" y="-946.6764705882351" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-93" value="Balok" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2050.5" y="-1008" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="f_qC7edfCxjkWxqN1Lxj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-94" target="f_qC7edfCxjkWxqN1Lxj-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-94" value="Pelat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2050.5" y="-1080" width="120" height="60" as="geometry" />
@@ -709,9 +701,6 @@
         <mxCell id="f_qC7edfCxjkWxqN1Lxj-1" value="Stabilitas Struktur Bawah Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1836" y="-168.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VFgx5lIHe6SfGSV5nusP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="f_qC7edfCxjkWxqN1Lxj-3" target="f_qC7edfCxjkWxqN1Lxj-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="f_qC7edfCxjkWxqN1Lxj-3" value="Pile Cap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2050.5" y="-936" width="120" height="60" as="geometry" />
         </mxCell>
@@ -735,24 +724,6 @@
         </mxCell>
         <mxCell id="f_qC7edfCxjkWxqN1Lxj-8" value="Tiang Pancang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1996" y="-108.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="f_qC7edfCxjkWxqN1Lxj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="f_qC7edfCxjkWxqN1Lxj-10" target="f_qC7edfCxjkWxqN1Lxj-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f_qC7edfCxjkWxqN1Lxj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f_qC7edfCxjkWxqN1Lxj-10" target="f_qC7edfCxjkWxqN1Lxj-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VFgx5lIHe6SfGSV5nusP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="f_qC7edfCxjkWxqN1Lxj-10" target="f_qC7edfCxjkWxqN1Lxj-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f_qC7edfCxjkWxqN1Lxj-10" value="Efek Beban" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2191" y="-976.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="f_qC7edfCxjkWxqN1Lxj-11" value="Akibat Momen:&lt;br&gt;Arah:&lt;br&gt;&lt;ol&gt;&lt;li&gt;M-XX&lt;/li&gt;&lt;li&gt;M-YY&lt;/li&gt;&lt;li&gt;M-ZZ&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="2361" y="-928.5" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="f_qC7edfCxjkWxqN1Lxj-14" value="Akibat Geser:&lt;br&gt;Arah:&amp;nbsp;&lt;br&gt;V-YY (V-2-2)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="2360" y="-808.5" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f_qC7edfCxjkWxqN1Lxj-18" value="Pemodelan Struktur Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1882" y="-1474" width="120" height="60" as="geometry" />
