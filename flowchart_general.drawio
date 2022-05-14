@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T21:49:04.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="zSvQ1xIg2hq0kMM8n8sn" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T21:50:20.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="V82WLcpi0ck1tB7D-wzN" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="5267" dy="10669" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4244" dy="9989" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -611,7 +611,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-86" value="Ultimate Limit States" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="2118" y="-586" width="120" height="60" as="geometry" />
+          <mxGeometry x="2249" y="-1056" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-87" target="VFgx5lIHe6SfGSV5nusP-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -663,7 +663,7 @@
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-94" value="Pelat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1923.5" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ws4u6goq_V8mnw8VZYxV-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-133" target="Ws4u6goq_V8mnw8VZYxV-86" edge="1">
+        <mxCell id="Ws4u6goq_V8mnw8VZYxV-136" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;endArrow=none;endFill=0;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-133" target="Ws4u6goq_V8mnw8VZYxV-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="Ws4u6goq_V8mnw8VZYxV-133" target="Ws4u6goq_V8mnw8VZYxV-87" edge="1">
@@ -784,7 +784,7 @@
           <mxGeometry x="1709" y="-95" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-4" value="Persistent dan Transient" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2287" y="-526" width="120" height="60" as="geometry" />
+          <mxGeometry x="2409" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-5" value="Accidental" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2287" y="-450" width="120" height="60" as="geometry" />
@@ -811,7 +811,7 @@
           <mxGeometry x="2249" y="-1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-17" value="Design situation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2287" y="-556" width="100" height="30" as="geometry" />
+          <mxGeometry x="2409" y="-1151" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-18" value="Accidental constructions (executing)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2287" y="-301" width="120" height="60" as="geometry" />
@@ -826,10 +826,10 @@
           <mxGeometry x="2287" y="-31" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-23" value="Unfavourable:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2451" y="-556" width="100" height="30" as="geometry" />
+          <mxGeometry x="2573" y="-1151" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-24" value="Favourable:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2571" y="-556" width="100" height="30" as="geometry" />
+          <mxGeometry x="2693" y="-1151" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-25" value="Program: SAP2000" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1923.5" y="45" width="120" height="60" as="geometry" />
