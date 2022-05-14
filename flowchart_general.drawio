@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:09:04.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="MC96DBY60CUr_WCjyT4W" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:09:55.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="bvQz8byte6woCVrCEouB" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="1124" dy="5428" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -64,11 +64,10 @@
         <mxCell id="VFgx5lIHe6SfGSV5nusP-131" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#CC0000;strokeWidth=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2094" y="-4250" width="330" height="1253" as="geometry" />
         </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-1" target="v9qTnyX4O629vSzhhKhX-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v9qTnyX4O629vSzhhKhX-1" value="Perencanaan Pelabuhan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="117" y="-4574" width="120" height="60" as="geometry" />
+        <mxCell id="v9qTnyX4O629vSzhhKhX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;exitPerimeter=0;" parent="1" source="ruiceTiGWFp82l53x4zg-35" target="v9qTnyX4O629vSzhhKhX-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="-4514" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-2" target="v9qTnyX4O629vSzhhKhX-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1166,6 +1165,12 @@
         </mxCell>
         <mxCell id="ruiceTiGWFp82l53x4zg-31" value="Sistem Berlabuh di Kolam Dermaga" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1434.25" y="-3330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-34" value="Perencanaan Pelabuhan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16" y="-4664" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruiceTiGWFp82l53x4zg-35" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="127" y="-4583" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
