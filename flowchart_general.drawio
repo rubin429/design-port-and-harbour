@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:51:58.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="1RMwCcp8IJN7fDOqzT0R" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:53:02.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="8QYLZr7HPMq-XMFUowvx" version="18.0.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4015" dy="9837" grid="1" gridSize="23" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3890" dy="9754" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,7 +262,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552" y="-4454" />
-              <mxPoint x="552" y="-4275" />
+              <mxPoint x="552" y="-4285" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -284,7 +284,7 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="v9qTnyX4O629vSzhhKhX-31" target="v9qTnyX4O629vSzhhKhX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="929" y="-4275" />
+              <mxPoint x="929" y="-4285" />
               <mxPoint x="929" y="-4117" />
             </Array>
           </mxGeometry>
@@ -292,13 +292,13 @@
         <mxCell id="v9qTnyX4O629vSzhhKhX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="v9qTnyX4O629vSzhhKhX-31" target="v9qTnyX4O629vSzhhKhX-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="929" y="-4275" />
+              <mxPoint x="929" y="-4285" />
               <mxPoint x="929" y="-2850" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-31" value="Jenis Dermaga:&lt;br&gt;Open-Wharf Type" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="627" y="-4305" width="120" height="60" as="geometry" />
+          <mxGeometry x="627" y="-4315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-96" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;verticalAlign=middle;horizontal=1;rounded=1;dashed=1;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=1;" parent="1" source="v9qTnyX4O629vSzhhKhX-40" target="v9qTnyX4O629vSzhhKhX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
