@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T15:34:49.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TD4gZclpUBXtAknnDHng" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T15:35:24.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Uyefsq6MsOTbubzhyHva" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="757" dy="5198" grid="0" gridSize="35" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -935,6 +935,9 @@
         </mxCell>
         <mxCell id="VFgx5lIHe6SfGSV5nusP-73" value="Jenis Perbaikan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3688" y="-4424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFgx5lIHe6SfGSV5nusP-76" value="Jenis Perkuatan Struktur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3873" y="-4424" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
