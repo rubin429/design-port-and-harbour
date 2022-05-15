@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T14:03:55.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="GgGRnR3JN7G0Yxr0iDas" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T14:06:09.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="eM5MEjvMYVX1gYqZZu2a" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="4208" dy="9947" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1507,22 +1507,31 @@
           <mxGeometry x="1921" y="1483" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-24" value="Berat sendiri struktur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2499.5" y="-2248" width="120" height="60" as="geometry" />
+          <mxGeometry x="2485" y="-2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-25" value="&lt;i&gt;Fixed equipment&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2499.5" y="-2188" width="120" height="60" as="geometry" />
+          <mxGeometry x="2485" y="-2260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-26" value="Tekanan tanah dan air" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2499.5" y="-2128" width="120" height="60" as="geometry" />
+          <mxGeometry x="2485" y="-2201" width="122" height="61" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-27" value="Imposed floor loads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2499.5" y="-2068" width="120" height="60" as="geometry" />
+          <mxGeometry x="2605" y="-2140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-28" value="Wind loads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2499.5" y="-2008" width="120" height="60" as="geometry" />
+          <mxGeometry x="2605" y="-2080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-29" value="Beban aktivitas peralatan bongkar - muat&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2499.5" y="-1948" width="120" height="60" as="geometry" />
+          <mxGeometry x="2605" y="-2020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-30" value="Ledakan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2485" y="-1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-31" value="Kebakaran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="-1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-32" value="Benturan Kapal atau kendaraan lain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2560.5" y="-1900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
