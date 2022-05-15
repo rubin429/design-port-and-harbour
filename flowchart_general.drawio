@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T14:00:23.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Oo5DuQJ-ppjGi9UHjq7C" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T14:02:52.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="OMZozYYIKWXkvSrtMBDU" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4114" dy="9887" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4208" dy="9947" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1505,6 +1505,15 @@
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-19" value="kejadian gempa" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1921" y="1483" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-24" value="Berat sendiri struktur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2464" y="-2198" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-25" value="&lt;i&gt;Fixed equipment&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2464" y="-2138" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-26" value="Tekanan tanah dan air" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2464" y="-2078" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
