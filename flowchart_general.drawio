@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T14:23:13.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="WuMtlhbRi41SAuSUKUiO" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T14:35:14.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="GLa6PLliv1Hwj1cSVd2x" version="18.0.4" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4424" dy="10087" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4198" dy="9906" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ir8gKT4XQ6TKBxoeBUeV-79" target="ir8gKT4XQ6TKBxoeBUeV-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-79" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2664" y="-1868" width="183" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-77" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2408" y="-1888" width="183" height="288" as="geometry" />
+        </mxCell>
         <mxCell id="v9qTnyX4O629vSzhhKhX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ruiceTiGWFp82l53x4zg-35" target="ruiceTiGWFp82l53x4zg-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="267" y="-4569" as="sourcePoint" />
@@ -547,6 +556,11 @@
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-80" value="ASTM A252" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2283" y="-2316" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ws4u6goq_V8mnw8VZYxV-86" target="ir8gKT4XQ6TKBxoeBUeV-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2388" y="-1741" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ws4u6goq_V8mnw8VZYxV-86" value="Ultimate Limit States" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="2249" y="-1774" width="120" height="60" as="geometry" />
@@ -1456,18 +1470,6 @@
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-33" value="Tekanan tanah dan hidrostatis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2485" y="-2200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-58" value="Persistent dan Transient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2889" y="-1776" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-59" value="Accidental" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2888" y="-1697" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-60" value="Seismic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2889" y="-1619" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-61" value="Accidental constructions (executing)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2889" y="-1533" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-62" value="Characteristic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2888" y="-1455" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1478,31 +1480,34 @@
           <mxGeometry x="2888" y="-1304" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-65" value="EQU" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="2698" y="-1817" width="120" height="60" as="geometry" />
+          <mxGeometry x="2702.5" y="-1842" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-66" value="STR" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="2698" y="-1725" width="120" height="60" as="geometry" />
+          <mxGeometry x="2702.5" y="-1750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-67" value="GEO" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="2698" y="-1638" width="120" height="60" as="geometry" />
+          <mxGeometry x="2702.5" y="-1663" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-68" value="FAT" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="2698" y="-1556" width="120" height="60" as="geometry" />
+          <mxGeometry x="2702.5" y="-1581" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-69" value="persistent and transient" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2430.5" y="-1776" width="143.5" height="30" as="geometry" />
+          <mxGeometry x="2440" y="-1800" width="143.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-70" value="Fundamental" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="2430" y="-1838" width="120" height="60" as="geometry" />
+          <mxGeometry x="2439.5" y="-1862" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-71" value="Accidental" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="2430" y="-1746" width="120" height="60" as="geometry" />
+          <mxGeometry x="2439.5" y="-1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-72" value="Seismic" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="2430" y="-1659" width="120" height="60" as="geometry" />
+          <mxGeometry x="2439.5" y="-1683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-74" value="Verifications:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2698" y="-1847" width="119" height="30" as="geometry" />
+          <mxGeometry x="2702.5" y="-1872" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ir8gKT4XQ6TKBxoeBUeV-76" value="BS 6349-2:2010 pasal A.3.3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2249" y="-1872" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
