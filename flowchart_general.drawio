@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T12:40:33.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="39rRaca1sxTgBDy7A4Zo" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T12:53:59.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="s3c8IA24KtMP8r9tIXBr" version="18.0.5" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="3486" dy="9474" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4190" dy="9895" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1517,6 +1517,42 @@
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-81" value="BS 6349-2:2010 pasal A.3.3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1798" y="-2672" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-1" value="Design Situation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3636" y="-424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-2" value="Permanent actions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3928" y="-364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-3" value="Prestress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4070" y="-364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-4" value="Leading accidental or seismic actions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4207" y="-364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-5" value="Accompanying variable action" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4344" y="-364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-7" value="Actions:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3773" y="-424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-8" value="Limit State" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3499" y="-424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-9" value="Limit State" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3499" y="-304" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-10" value="Fundamental" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3636" y="-244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-11" value="Accidental" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3636" y="-171" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-12" value="Seismic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3636" y="-98" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-13" value="Accidental construction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3636" y="-25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
