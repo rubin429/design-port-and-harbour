@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T13:26:46.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="EnLqZ5mKwrxpD5IT_at-" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T14:24:06.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="TokbFxrfnjEcBlTcnAbp" version="18.0.5" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4444" dy="10048" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4501" dy="10082" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SVA5hLeNVamDCcReWKFz-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="3628" y="-251.5" width="136" height="294.5" as="geometry" />
+        </mxCell>
         <mxCell id="SVA5hLeNVamDCcReWKFz-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="3936.5" y="-424" width="557" height="123" as="geometry" />
         </mxCell>
@@ -1527,6 +1530,9 @@
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-81" value="BS 6349-2:2010 pasal A.3.3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1798" y="-2672" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SVA5hLeNVamDCcReWKFz-1" target="SVA5hLeNVamDCcReWKFz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SVA5hLeNVamDCcReWKFz-1" value="Design Situation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3636" y="-424" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1548,8 +1554,14 @@
         <mxCell id="SVA5hLeNVamDCcReWKFz-7" value="Actions:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3773" y="-424" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SVA5hLeNVamDCcReWKFz-8" target="SVA5hLeNVamDCcReWKFz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SVA5hLeNVamDCcReWKFz-8" value="Limit State" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3499" y="-424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SVA5hLeNVamDCcReWKFz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SVA5hLeNVamDCcReWKFz-9" target="SVA5hLeNVamDCcReWKFz-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SVA5hLeNVamDCcReWKFz-9" value="Ultimate Limit State" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3499" y="-304" width="120" height="60" as="geometry" />
