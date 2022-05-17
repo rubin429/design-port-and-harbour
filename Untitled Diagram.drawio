@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T14:47:54.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5EcALwguplNyhmrtdyRU" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T14:50:00.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="orlfiaW_qAXV4ns6dLgN" version="18.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="280" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -483,6 +483,12 @@
         </mxCell>
         <mxCell id="dTs21a7y0v8qQQVfy4Zj-24" value="with transverse stiffnnes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1180" y="1710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dTs21a7y0v8qQQVfy4Zj-25" value="kv =5 + 5/(a/h)^2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1450" y="1710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dTs21a7y0v8qQQVfy4Zj-26" value="kv =5&amp;nbsp; when a/h&amp;gt;3.0 or a/h&amp;gt;(260/(h/tw))^2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1590" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
