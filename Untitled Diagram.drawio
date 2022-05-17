@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T15:51:54.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nYIOXTqUn1NPbbVP9iWg" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T15:52:14.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fGccDVBBIutgZW-9K_xE" version="18.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="204" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="318" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -415,6 +415,12 @@
         <mxCell id="jvSXbim7RQ2kWvmTT3K5-204" value="Shear Strength" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="1550" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dTs21a7y0v8qQQVfy4Zj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jvSXbim7RQ2kWvmTT3K5-209" target="dTs21a7y0v8qQQVfy4Zj-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTs21a7y0v8qQQVfy4Zj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jvSXbim7RQ2kWvmTT3K5-209" target="dTs21a7y0v8qQQVfy4Zj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jvSXbim7RQ2kWvmTT3K5-209" value="Kontrol Defleksi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="1800" width="120" height="40" as="geometry" />
         </mxCell>
@@ -528,7 +534,7 @@
           <mxGeometry x="150" y="1890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dTs21a7y0v8qQQVfy4Zj-39" value="Serviceabilty Limit State: delta_max" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="1970" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dTs21a7y0v8qQQVfy4Zj-40" value="Member Type" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1840" width="120" height="40" as="geometry" />
