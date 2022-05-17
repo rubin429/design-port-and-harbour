@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T02:46:18.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jrSMoXtLqQTHEkdrP3yB" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T02:53:49.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OLFfXKuqGTMgjf6NqvKH" version="18.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="422" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="408" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -66,7 +66,7 @@
             <mxPoint x="689.76" y="259.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jvSXbim7RQ2kWvmTT3K5-24" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-24" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="529.7299999999999" y="200" as="sourcePoint" />
@@ -101,7 +101,7 @@
             <mxPoint x="480" y="159.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jvSXbim7RQ2kWvmTT3K5-29" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="580" y="159.66999999999996" as="sourcePoint" />
@@ -121,6 +121,51 @@
             <mxPoint x="900" y="159.66999999999996" as="sourcePoint" />
             <mxPoint x="960" y="159.66999999999996" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-32" value="See AISC Manual Part 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-33" value="See AISC Manual Part 4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-34" value="See AISC Manual Part 5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-35" value="STOP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-37" value="See AISC Manual Section H1.1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-38" value="Doubly or Singly Simetric" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=7;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="260" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-39" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="jvSXbim7RQ2kWvmTT3K5-41">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="740" y="300" as="sourcePoint" />
+            <mxPoint x="800" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="300" />
+              <mxPoint x="760" y="340" />
+              <mxPoint x="820" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-40" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jvSXbim7RQ2kWvmTT3K5-38" target="jvSXbim7RQ2kWvmTT3K5-37">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="689.8" y="340" as="sourcePoint" />
+            <mxPoint x="689.8" y="399.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="300" />
+              <mxPoint x="620" y="340" />
+              <mxPoint x="580" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-41" value="See AISC Manual Section H1.1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
