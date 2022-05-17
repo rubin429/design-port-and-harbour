@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T06:13:20.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2ajgB9rgtSQcTvKgB_BI" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T06:17:07.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="S00wiIYJJAnjw9xxFBa7" version="18.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="389" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -403,8 +403,14 @@
         <mxCell id="jvSXbim7RQ2kWvmTT3K5-190" value="Torsional Flange Yielding" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="1265" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-208" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=7;endArrow=block;endFill=0;startSize=6;endSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jvSXbim7RQ2kWvmTT3K5-200" target="jvSXbim7RQ2kWvmTT3K5-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jvSXbim7RQ2kWvmTT3K5-200" value="Flexure Strength" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="1400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-210" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=7;endArrow=block;endFill=0;startSize=6;endSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jvSXbim7RQ2kWvmTT3K5-204" target="jvSXbim7RQ2kWvmTT3K5-209">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jvSXbim7RQ2kWvmTT3K5-204" value="Shear Strength" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="1550" width="120" height="40" as="geometry" />
@@ -417,6 +423,9 @@
         </mxCell>
         <mxCell id="jvSXbim7RQ2kWvmTT3K5-207" value="Shear Buckling" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="1580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jvSXbim7RQ2kWvmTT3K5-209" value="Defleksi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="1670" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
