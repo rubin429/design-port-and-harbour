@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T01:18:42.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="uh2bicic_FnTWCy4Pne6" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T05:23:50.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TgkVBZTh3cVjmP3UJUdL" version="18.1.2" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="3909" dy="10044" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3805" dy="9775" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1612,14 +1612,20 @@
         <mxCell id="zbo9fAr_RoeoDPRF6Bi_-1" value="Sets of partial factors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4158" y="-861" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ngNQuk1JiyA608ZpBwwF-2" value="Pemeriksaan Performa Operasional Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ngNQuk1JiyA608ZpBwwF-2" value="Pemeriksaan Performa Operasional Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="273" y="934" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ngNQuk1JiyA608ZpBwwF-3" value="Berth Througput" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="456" y="937" width="120" height="60" as="geometry" />
+        <mxCell id="ngNQuk1JiyA608ZpBwwF-3" value="Berth Througput" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="427" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ngNQuk1JiyA608ZpBwwF-4" value="BOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ngNQuk1JiyA608ZpBwwF-4" value="BOR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="431" y="846" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hXbtrzevOxJdb-mkmKFW-1" value="Jumlah kapal yang dilayani per tahun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hXbtrzevOxJdb-mkmKFW-2" value="Service time (jam/hari)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="857" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
