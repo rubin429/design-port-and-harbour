@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T18:09:33.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="sAfhvY6UQyeYS5VYjVIr" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T01:08:55.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="SXG-Ag5EjwR1uhyadwD7" version="18.1.2" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="5331" dy="10496" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="12780" dy="14655" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1408,58 +1408,58 @@
           <mxGeometry x="2619.5" y="-1177" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-2" value="Term and definitions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1346" y="1097" width="120" height="60" as="geometry" />
+          <mxGeometry x="99" y="2837" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-3" value="Desain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1466" y="1157" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="2897" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-4" value="Pemeriksaan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1471" y="1407" width="120" height="60" as="geometry" />
+          <mxGeometry x="224" y="3147" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-5" value="Desain kriteria: Limit State" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1662" y="1103" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="2843" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-6" value="Ultimate Limit State&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1793" y="1069" width="120" height="60" as="geometry" />
+          <mxGeometry x="546" y="2809" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-7" value="Serviceability Limit State" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1793" y="1137" width="120" height="60" as="geometry" />
+          <mxGeometry x="546" y="2877" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-8" value="Kondisi Desain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1662" y="1289" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="3029" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-9" value="Transient design situation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1793" y="1237" width="120" height="60" as="geometry" />
+          <mxGeometry x="546" y="2977" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-10" value="Persistent design" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1793" y="1314" width="120" height="60" as="geometry" />
+          <mxGeometry x="546" y="3054" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-11" value="base on design working life" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1793" y="1207" width="120" height="30" as="geometry" />
+          <mxGeometry x="546" y="2947" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-12" value="Accidental design situation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1793" y="1393" width="120" height="60" as="geometry" />
+          <mxGeometry x="546" y="3133" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-13" value="Seisimic design situation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1793" y="1472" width="120" height="60" as="geometry" />
+          <mxGeometry x="546" y="3212" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-14" value="Load arrangement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1943" y="1543" width="120" height="60" as="geometry" />
+          <mxGeometry x="696" y="3283" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-15" value="Load case" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1943" y="1618" width="120" height="60" as="geometry" />
+          <mxGeometry x="696" y="3358" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-16" value="seperti saat perbaikan atau kontruksi" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1921" y="1249" width="162" height="30" as="geometry" />
+          <mxGeometry x="674" y="2989" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-17" value="saat keadaan normal yaitu dermaga beroperasi" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1922" y="1329" width="162" height="30" as="geometry" />
+          <mxGeometry x="675" y="3069" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-18" value="kegagalan lokal seperti kapal menabrak struktur dermaga" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1921" y="1404" width="162" height="30" as="geometry" />
+          <mxGeometry x="674" y="3144" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-19" value="kejadian gempa" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1921" y="1483" width="162" height="30" as="geometry" />
+          <mxGeometry x="674" y="3223" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ir8gKT4XQ6TKBxoeBUeV-24" value="Berat sendiri struktur" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2485" y="-2320" width="120" height="60" as="geometry" />
