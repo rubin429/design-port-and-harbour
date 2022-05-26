@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T01:10:15.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="NTqB1dAN3nMhn05fOG2g" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T01:12:47.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="7FHHuVTCeXog4Yk6jzUF" version="18.1.2" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="4537" dy="10052" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3909" dy="10044" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1612,7 +1612,7 @@
         <mxCell id="zbo9fAr_RoeoDPRF6Bi_-1" value="Sets of partial factors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4158" y="-861" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ngNQuk1JiyA608ZpBwwF-2" value="Pemeriksaan Operasional Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ngNQuk1JiyA608ZpBwwF-2" value="Pemeriksaan Performa Operasional Dermaga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="934" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ngNQuk1JiyA608ZpBwwF-3" value="Berth Througput" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
