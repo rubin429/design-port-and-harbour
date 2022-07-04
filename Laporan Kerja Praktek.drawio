@@ -1,17 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T01:23:41.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gK_RnHX_KLvgCET3B-ff" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T01:24:38.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qeMAkptzbCf49mibGV8G" version="20.0.4" type="github">
   <diagram id="V_NutxAQ6Du9BUnQE3WQ" name="Page-1">
     <mxGraphModel dx="397" dy="640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l8y5G0Drvy17OrBLyzTF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l8y5G0Drvy17OrBLyzTF-2" target="l8y5G0Drvy17OrBLyzTF-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="l8y5G0Drvy17OrBLyzTF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l8y5G0Drvy17OrBLyzTF-2" target="l8y5G0Drvy17OrBLyzTF-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="171" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l8y5G0Drvy17OrBLyzTF-2" value="Start" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="22" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8y5G0Drvy17OrBLyzTF-4" value="Pengumpulan Data" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="335.5" y="171" width="157" height="39" as="geometry" />
+        <mxCell id="l8y5G0Drvy17OrBLyzTF-6" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="221" y="85" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l8y5G0Drvy17OrBLyzTF-7" value="Pengumpulan Data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="170" width="132" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
