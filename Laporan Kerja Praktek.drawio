@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T01:29:41.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bVdEH3RTTsgyGtfLxk09" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T01:32:59.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FlVVj9tvfHmXcvePZlkf" version="20.0.4" type="github">
   <diagram id="V_NutxAQ6Du9BUnQE3WQ" name="Page-1">
-    <mxGraphModel dx="127" dy="205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="176" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,30 +20,20 @@
         <mxCell id="l8y5G0Drvy17OrBLyzTF-7" value="Pengumpulan Data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="418.5" y="125" width="132" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="l8y5G0Drvy17OrBLyzTF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l8y5G0Drvy17OrBLyzTF-9" target="l8y5G0Drvy17OrBLyzTF-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="80" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="l8y5G0Drvy17OrBLyzTF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="l8y5G0Drvy17OrBLyzTF-9" target="l8y5G0Drvy17OrBLyzTF-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8y5G0Drvy17OrBLyzTF-9" value="Data Bathymetri" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="10" y="82" width="151" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="l8y5G0Drvy17OrBLyzTF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l8y5G0Drvy17OrBLyzTF-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="141.30769230769226" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="l8y5G0Drvy17OrBLyzTF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="l8y5G0Drvy17OrBLyzTF-10" target="l8y5G0Drvy17OrBLyzTF-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8y5G0Drvy17OrBLyzTF-10" value="Data Angin" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="10" y="124" width="151" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="l8y5G0Drvy17OrBLyzTF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l8y5G0Drvy17OrBLyzTF-11" target="l8y5G0Drvy17OrBLyzTF-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="184" />
-              <mxPoint x="200" y="142" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="l8y5G0Drvy17OrBLyzTF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="l8y5G0Drvy17OrBLyzTF-11" target="l8y5G0Drvy17OrBLyzTF-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8y5G0Drvy17OrBLyzTF-11" value="Data Arus" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="11" y="166" width="151" height="35" as="geometry" />
