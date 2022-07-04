@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T16:27:51.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zYf6R25zQq1fhDV0qvBg" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T16:28:32.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dKFVKr1YH9eSB8-GUG_F" version="20.0.4" type="github">
   <diagram id="V_NutxAQ6Du9BUnQE3WQ" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,8 +75,14 @@
         <mxCell id="l8y5G0Drvy17OrBLyzTF-25" value="Kecepatan Angin" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="682.5" y="468" width="132" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="amQzggC42HQxctF25vab-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="amQzggC42HQxctF25vab-4" target="amQzggC42HQxctF25vab-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="amQzggC42HQxctF25vab-4" value="Perencanaan Layout Perairan Pelabuhan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="286.5" y="582" width="132" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="amQzggC42HQxctF25vab-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="amQzggC42HQxctF25vab-7" target="amQzggC42HQxctF25vab-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="amQzggC42HQxctF25vab-7" value="Perencanaan Layout Daratan Pelabuhan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="550.5" y="582" width="132" height="34" as="geometry" />
@@ -92,6 +98,9 @@
         </mxCell>
         <mxCell id="amQzggC42HQxctF25vab-10" value="Start" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="434.5" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amQzggC42HQxctF25vab-15" value="Selesai" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="434.5" y="670" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
