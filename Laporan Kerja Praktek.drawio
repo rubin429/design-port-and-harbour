@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T19:43:49.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iDpqSL1WCsIyO05sEf29" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T19:44:15.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ETYApbDslHjfS-o064pu" version="20.1.3" type="github">
   <diagram id="V_NutxAQ6Du9BUnQE3WQ" name="Page-1">
     <mxGraphModel dx="1072" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
         <mxCell id="l8y5G0Drvy17OrBLyzTF-23" value="Perhitungan Tinggi dan Periode Gelombang" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="316" y="523" width="132" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="l8y5G0Drvy17OrBLyzTF-25" value="Kecepatan Angin" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="113" y="568" width="132" height="34" as="geometry" />
+        <mxCell id="l8y5G0Drvy17OrBLyzTF-25" value="Kecepatan Angin Terkoreksi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="523" width="132" height="34" as="geometry" />
         </mxCell>
         <mxCell id="amQzggC42HQxctF25vab-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="amQzggC42HQxctF25vab-9" target="l8y5G0Drvy17OrBLyzTF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -112,10 +112,10 @@
           <mxGeometry x="41" y="353" width="151" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ouw-oKs7E2aU4Vy2Mj9D-7" value="Hindcasting Gelombang" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="468" width="132" height="34" as="geometry" />
+          <mxGeometry x="50.5" y="427" width="132" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ouw-oKs7E2aU4Vy2Mj9D-9" value="Fetch Efektif" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="113" y="523" width="132" height="34" as="geometry" />
+          <mxGeometry x="113" y="477" width="132" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
