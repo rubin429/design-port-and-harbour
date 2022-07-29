@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T04:32:43.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4Zvp6jvvQGGbZD6_3JrO" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T04:38:03.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Grdx4qD0hdopgVe1eDoJ" version="20.2.2" type="github">
   <diagram id="V_NutxAQ6Du9BUnQE3WQ" name="Page-1">
-    <mxGraphModel dx="700" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,16 +130,31 @@
           <mxGeometry x="137" y="500" width="132" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ns7emV4-t7fOYaZ2lw3K-1" value="Direktur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406" y="1526" width="120" height="60" as="geometry" />
+          <mxGeometry x="403" y="1514" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ns7emV4-t7fOYaZ2lw3K-2" value="Komisaris Utama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="403" y="1381" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ns7emV4-t7fOYaZ2lw3K-3" value="Komisaris" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="557" y="1452" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ns7emV4-t7fOYaZ2lw3K-4" value="Tenaga Ahli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406" y="1671" width="120" height="60" as="geometry" />
+        <mxCell id="Ns7emV4-t7fOYaZ2lw3K-4" value="Manager Keuangan dan SDM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ns7emV4-t7fOYaZ2lw3K-6" value="Manager Teknik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ns7emV4-t7fOYaZ2lw3K-7" value="Manager Pemasaran dan Operasional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="1635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ns7emV4-t7fOYaZ2lw3K-8" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="1733" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ns7emV4-t7fOYaZ2lw3K-9" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="1733" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ns7emV4-t7fOYaZ2lw3K-10" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="1733" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
