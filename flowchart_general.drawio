@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-14T10:21:43.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GzrChk9ss23OBT7o9BuQ" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-14T10:29:12.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sxMYd7fJVUS6QGtBgmdT" version="20.2.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="4438" dy="9997" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1718,11 +1718,14 @@
         <mxCell id="Un4BqxcqUMAFKAMpBSeX-27" value="LOAD COMBINATIONS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="4316" y="-2035" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Un4BqxcqUMAFKAMpBSeX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Un4BqxcqUMAFKAMpBSeX-28" target="Un4BqxcqUMAFKAMpBSeX-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Un4BqxcqUMAFKAMpBSeX-28" value="LOAD CASES" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="4562" y="-2031" width="120" height="60" as="geometry" />
+          <mxGeometry x="4566" y="-2035" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Un4BqxcqUMAFKAMpBSeX-29" value="TYPE OF LOADS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="4832.5" y="-2048" width="120" height="60" as="geometry" />
+          <mxGeometry x="4878" y="-2035" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Un4BqxcqUMAFKAMpBSeX-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="4283" y="-1947" width="183" height="288" as="geometry" />
@@ -1747,6 +1750,9 @@
         </mxCell>
         <mxCell id="Un4BqxcqUMAFKAMpBSeX-38" value="SET C" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="4562" y="-1743" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Un4BqxcqUMAFKAMpBSeX-41" value="G, Q, A" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="4717" y="-1993" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
