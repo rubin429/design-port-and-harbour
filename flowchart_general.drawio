@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-14T10:19:32.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Yg-alN9SXauAZsPNIhIw" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-14T10:20:12.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qTQO6LJytKVJ4G63-tFx" version="20.2.3" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="4438" dy="9997" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1723,6 +1723,21 @@
         </mxCell>
         <mxCell id="Un4BqxcqUMAFKAMpBSeX-29" value="TYPE OF LOADS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="4648" y="-2039" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Un4BqxcqUMAFKAMpBSeX-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="4283" y="-1947" width="183" height="288" as="geometry" />
+        </mxCell>
+        <mxCell id="Un4BqxcqUMAFKAMpBSeX-31" value="persistent and transient" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4314.5" y="-1859" width="143.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Un4BqxcqUMAFKAMpBSeX-32" value="Fundamental" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="4314.5" y="-1921" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Un4BqxcqUMAFKAMpBSeX-33" value="Accidental" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="4314.5" y="-1829" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Un4BqxcqUMAFKAMpBSeX-34" value="Seismic" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="4314.5" y="-1742" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
