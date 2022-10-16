@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T03:53:21.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Gu4fuKcjPoGdEVAOjz7q" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-16T03:53:42.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Iqt0ZQ8ZaFyzz8_QVqJ8" version="20.3.6" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
     <mxGraphModel dx="5381" dy="7384" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1790,8 +1790,11 @@
         <mxCell id="7T4sc5MQqV2BXtk9CONN-8" value="TAMPAK POTONGAN G - G DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="5493" y="488.5" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-9" value="TAMPAK POTONGAN 5 - 5&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-9" value="TAMPAK POTONGAN 3 - 3&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="5493" y="569" width="544" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-10" value="TAMPAK POTONGAN 5 - 5&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5493" y="657" width="544" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
