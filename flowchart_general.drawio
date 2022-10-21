@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T03:58:06.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TJdZc5_X0tYFAnBQF1Z5" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T14:01:58.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SwJq8gUgebUogUUpa6rv" version="20.4.1" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="5681" dy="7720" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="5348" dy="7347" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1769,53 +1769,68 @@
         <mxCell id="Un4BqxcqUMAFKAMpBSeX-47" value="ACCOMPANYING VARIABLE ACTIONS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="4726" y="-1536" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-1" value="SHOPDRAWING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-1" value="SHOPDRAWING" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4700" y="9" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-2" value="DERMAGA KONSTRUKSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-2" value="DERMAGA KONSTRUKSI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4827" y="129.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-3" value="LAYOUT TERMINAL KHUSUS PT PUPUK KALTIM" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-3" value="LAYOUT TERMINAL KHUSUS PT PUPUK KALTIM" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="4947" y="199" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-5" value="LAYOUT SISI UTARA DERMAGA KONTRUKSI" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-5" value="LAYOUT SISI UTARA DERMAGA KONTRUKSI" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="4949" y="272.5" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-6" value="TAMPAK POTONGAN SISI UTARA DERMAGA KONSTRUKSI" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-6" value="TAMPAK POTONGAN SISI UTARA DERMAGA KONSTRUKSI" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="4949" y="344" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-7" value="TAMPAK POTONGAN B - B&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-7" value="TAMPAK POTONGAN B - B&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="413" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-8" value="TAMPAK POTONGAN G - G DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-8" value="TAMPAK POTONGAN G - G DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="488.5" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-9" value="TAMPAK POTONGAN 3 - 3&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-9" value="TAMPAK POTONGAN 3 - 3&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="569" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-10" value="TAMPAK POTONGAN 5 - 5&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-10" value="TAMPAK POTONGAN 5 - 5&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="657" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-12" value="TAMPAK POTONGAN 7 - 7&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-12" value="TAMPAK POTONGAN 7 - 7&#39; DERMAGA LUMUS 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="737" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-13" value="TAMPAK POTONGAN B - B&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-13" value="TAMPAK POTONGAN B - B&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="838" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-15" value="TAMPAK POTONGAN 3 - 3&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-15" value="TAMPAK POTONGAN 3 - 3&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="914" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-16" value="TAMPAK POTONGAN 5 - 5&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-16" value="TAMPAK POTONGAN 5 - 5&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="1002" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-18" value="TAMPAK POTONGAN B - B&#39; DERMAGA EXTENSION 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-18" value="TAMPAK POTONGAN B - B&#39; DERMAGA EXTENSION 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="1090" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-19" value="TAMPAK POTONGAN 3 - 3&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-19" value="TAMPAK POTONGAN 3 - 3&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="1166" width="544" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7T4sc5MQqV2BXtk9CONN-20" value="TAMPAK POTONGAN 6 - 6&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="7T4sc5MQqV2BXtk9CONN-20" value="TAMPAK POTONGAN 6 - 6&#39; DERMAGA LUMUS 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="5493" y="1254" width="544" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4QmFK89O6BUDltMH3bC2-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="1204" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QmFK89O6BUDltMH3bC2-6" value="Pekerjaan Causeway dan Dredging*&lt;br&gt;(*tidak termasuk dalam perencanaan)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="296" y="1410" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4QmFK89O6BUDltMH3bC2-10" value="Pembongkaran Struktur Beton Eksisting" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="296" y="1481" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4QmFK89O6BUDltMH3bC2-11" value="Pekerjaan Persiapan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="296" y="1338" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4QmFK89O6BUDltMH3bC2-12" value="Pemancangan Pacth Plat 5/16 Inch &lt;br&gt;Tiang Pancang" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="297" y="1560" width="246" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
