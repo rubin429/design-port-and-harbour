@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T08:02:56.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GM3RekuwcE_kedr5UWpY" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T08:03:55.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Hpl77lZij-RQ-0Ygyjr6" version="20.5.1" type="github">
   <diagram id="vPnPxJsKkhuTtD2iRJGy" name="Page-1">
-    <mxGraphModel dx="6178" dy="7436" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="5543" dy="7081" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1870,29 +1870,47 @@
         <mxCell id="4QmFK89O6BUDltMH3bC2-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="1908" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YzKOWW5zsGsd2_GFMWJC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YzKOWW5zsGsd2_GFMWJC-1" target="YzKOWW5zsGsd2_GFMWJC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YzKOWW5zsGsd2_GFMWJC-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1063" y="1166" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YzKOWW5zsGsd2_GFMWJC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YzKOWW5zsGsd2_GFMWJC-2" target="YzKOWW5zsGsd2_GFMWJC-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YzKOWW5zsGsd2_GFMWJC-2" value="Pekerjaan Persiapan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1269" width="246" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YzKOWW5zsGsd2_GFMWJC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YzKOWW5zsGsd2_GFMWJC-3" target="YzKOWW5zsGsd2_GFMWJC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YzKOWW5zsGsd2_GFMWJC-3" value="Pembongkaran Struktur Beton Eksisting" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1359" width="246" height="60" as="geometry" />
+          <mxGeometry x="830" y="1374" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YzKOWW5zsGsd2_GFMWJC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YzKOWW5zsGsd2_GFMWJC-4" target="YzKOWW5zsGsd2_GFMWJC-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YzKOWW5zsGsd2_GFMWJC-4" value="Pemancangan Patch Plate Tebal 8 mm Perbaikan Tiang Pancang" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1152" y="1359" width="246" height="60" as="geometry" />
+          <mxGeometry x="1152" y="1374" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YzKOWW5zsGsd2_GFMWJC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YzKOWW5zsGsd2_GFMWJC-5" target="YzKOWW5zsGsd2_GFMWJC-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YzKOWW5zsGsd2_GFMWJC-5" value="Pekerjaan Struktur Beton Baru" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1455" width="246" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1476" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YzKOWW5zsGsd2_GFMWJC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YzKOWW5zsGsd2_GFMWJC-6" target="YzKOWW5zsGsd2_GFMWJC-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YzKOWW5zsGsd2_GFMWJC-6" value="Pemasangan Fender dan Bollard" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1554" width="246" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1575" width="246" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YzKOWW5zsGsd2_GFMWJC-7" value="Pengecatan dan Penataan Layout Skenario Aktivitas Bongkar Muat" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1644" width="246" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1665" width="246" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YzKOWW5zsGsd2_GFMWJC-8" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1063" y="1734" width="120" height="80" as="geometry" />
+          <mxGeometry x="1063" y="1755" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
