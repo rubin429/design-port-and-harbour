@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T04:12:26.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="feeOHM7kP4HAWWEXeQiC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T04:12:55.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IM441kZgT2528aDXksIW" version="20.5.3" type="github">
   <diagram id="6X761wUMOgHPF1Ai5kYA" name="Halaman-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="fwMle3afaJR6kdwzlkPQ-10" value="Navionics Chart Viewer &amp;amp; Autocad" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="706.5" width="144" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="fwMle3afaJR6kdwzlkPQ-13" value="Tinggi dan Periode Gelombang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-13" value="Tinggi dan Periode Gelombang, serta Arah datang gelombang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="807" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-14" target="fwMle3afaJR6kdwzlkPQ-13">
