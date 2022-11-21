@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T08:14:41.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9Ackqui3P1WUhQgDmzAy" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T08:22:18.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FlnZNXOVPtG31S5j8jis" version="20.5.3" type="github">
   <diagram id="zwPZa73-P1lnx8H_J387" name="Halaman-1">
-    <mxGraphModel dx="1000" dy="1120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1583" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-1" target="AZBUk-cfIWDi0z4D1h4j-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-1" value="INVOICE DATA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="1051" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-2" target="AZBUk-cfIWDi0z4D1h4j-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-2" target="AZBUk-cfIWDi0z4D1h4j-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-2" value="PO DATA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="320" width="120" height="60" as="geometry" />
@@ -76,11 +85,26 @@
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-24" value="BELUM DIBERIKAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1996" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-25" target="AZBUk-cfIWDi0z4D1h4j-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-25" value="MONTHLY REPORT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="1051" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-26" value="PO REPORT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="1051" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-28" value="PO PERMIT DATA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1903" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-31" target="AZBUk-cfIWDi0z4D1h4j-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-31" value="MONTHLY REPORT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-32" value="PO REPORT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
