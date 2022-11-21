@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T04:16:21.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ALLn0MnQfjgRrdC_cTd5" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T04:16:59.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="H2yFfvEUHp5cisUEuUkB" version="20.5.3" type="github">
   <diagram id="6X761wUMOgHPF1Ai5kYA" name="Halaman-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -22,41 +22,47 @@
         <mxCell id="fwMle3afaJR6kdwzlkPQ-5" value="Pemodelan STWAVE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="751" y="614" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fwMle3afaJR6kdwzlkPQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-6" target="fwMle3afaJR6kdwzlkPQ-9">
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-6" target="fwMle3afaJR6kdwzlkPQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fwMle3afaJR6kdwzlkPQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-6" target="fwMle3afaJR6kdwzlkPQ-5">
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-6" target="fwMle3afaJR6kdwzlkPQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-6" target="fwMle3afaJR6kdwzlkPQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-6" target="fwMle3afaJR6kdwzlkPQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-6" value="Data Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="614" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-9" value="Peta Batimetri yang telah di &lt;i&gt;digitasi&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="715" width="120" height="60" as="geometry" />
+          <mxGeometry x="344" y="714.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-10" target="fwMle3afaJR6kdwzlkPQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-10" value="Navionics Chart Viewer &amp;amp; Autocad" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="209" y="706.5" width="144" height="77" as="geometry" />
+          <mxGeometry x="93" y="706" width="144" height="77" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-13" value="Tinggi dan Periode Gelombang, serta Arah datang gelombang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="807" width="120" height="60" as="geometry" />
+          <mxGeometry x="344" y="806.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-14" target="fwMle3afaJR6kdwzlkPQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-14" value="&lt;i&gt;Hindcasting Gelombang&lt;/i&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="209" y="798.5" width="144" height="77" as="geometry" />
+          <mxGeometry x="93" y="798" width="144" height="77" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-16" value="Tunggang Pasang Surut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="935.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="344" y="935" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-17" target="fwMle3afaJR6kdwzlkPQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-17" value="&lt;i&gt;Pengukuran selama 15 hari. Hasil pengukuran dilakukan forecasting selama 18,6 tahun: metode yang digunakan metode altimetri&lt;/i&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="209" y="898" width="144" height="135" as="geometry" />
+          <mxGeometry x="93" y="897.5" width="144" height="135" as="geometry" />
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-20" target="fwMle3afaJR6kdwzlkPQ-21">
           <mxGeometry relative="1" as="geometry" />
