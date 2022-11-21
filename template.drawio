@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T08:25:35.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Mv-GEkdXCxgD1b1XkCKs" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T08:26:27.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jimGaMR-cJxl_eTTsmum" version="20.5.3" type="github">
   <diagram id="zwPZa73-P1lnx8H_J387" name="Halaman-1">
     <mxGraphModel dx="1583" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -132,6 +132,12 @@
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-43" value="EXC. PPN 11%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1269" y="2072" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-44" value="STATUS OF PO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="1851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-45" value="BEFORE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1601" y="1928" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
