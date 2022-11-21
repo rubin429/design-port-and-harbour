@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T10:04:25.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="a520V-NC9H0Q2bJQemD9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T10:06:46.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mesp43sBXXvEHWRTw3qI" version="20.5.3" type="github">
   <diagram id="zwPZa73-P1lnx8H_J387" name="Halaman-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -154,6 +154,14 @@
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-71" target="AZBUk-cfIWDi0z4D1h4j-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-58" target="AZBUk-cfIWDi0z4D1h4j-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2768" y="1207" />
+              <mxPoint x="2768" y="1602" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-58" value="Owner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2822" y="1177" width="120" height="60" as="geometry" />
         </mxCell>
@@ -188,6 +196,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-68" target="AZBUk-cfIWDi0z4D1h4j-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-68" target="AZBUk-cfIWDi0z4D1h4j-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-68" value="PT PUNGGAWA UTAMA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -225,8 +236,16 @@
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-83" value="Konstruksi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3885" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-84" target="AZBUk-cfIWDi0z4D1h4j-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-84" value="INVOICE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3356" y="1462" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-85" target="AZBUk-cfIWDi0z4D1h4j-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2710" y="1486" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-85" value="DP 20%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3356" y="1557" width="120" height="60" as="geometry" />
@@ -242,6 +261,15 @@
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-89" value="RETENSI 10%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3359" y="1947" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-95" value="BELUM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3537" y="1462" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-96" value="SUDAH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3860" y="1462" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-97" value="ON PROGRESS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3693" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
