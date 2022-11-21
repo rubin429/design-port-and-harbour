@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T10:19:02.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fP9C_O8rFyKRhfXrrVcN" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T11:21:01.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zC0XOJi6IWCrsY1Z_19y" version="20.5.3" type="github">
   <diagram id="zwPZa73-P1lnx8H_J387" name="Halaman-1">
     <mxGraphModel dx="1778" dy="993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-77" target="AZBUk-cfIWDi0z4D1h4j-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AZBUk-cfIWDi0z4D1h4j-77" value="PO PERMIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-77" value="DIVISI PERMIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3512" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-80" target="AZBUk-cfIWDi0z4D1h4j-103">
@@ -283,6 +283,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-85" target="AZBUk-cfIWDi0z4D1h4j-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-85" target="AZBUk-cfIWDi0z4D1h4j-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-85" value="DP 20%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -416,6 +419,12 @@
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-117" value="100%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4172" y="1919" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-127" value="PO IMPLEMENTASI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3692" y="1245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-128" value="PO PERMIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3512" y="1313" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
