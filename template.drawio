@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T08:22:18.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FlnZNXOVPtG31S5j8jis" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T08:25:35.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Mv-GEkdXCxgD1b1XkCKs" version="20.5.3" type="github">
   <diagram id="zwPZa73-P1lnx8H_J387" name="Halaman-1">
     <mxGraphModel dx="1583" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           <mxGeometry x="547" y="1051" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-28" value="PO PERMIT DATA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="1903" width="120" height="60" as="geometry" />
+          <mxGeometry x="116" y="1776" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AZBUk-cfIWDi0z4D1h4j-31" target="AZBUk-cfIWDi0z4D1h4j-32">
           <mxGeometry relative="1" as="geometry" />
@@ -105,6 +105,33 @@
         </mxCell>
         <mxCell id="AZBUk-cfIWDi0z4D1h4j-32" value="PO REPORT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-35" value="DATES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-36" value="ID PO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="1851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-37" value="DESCRIPTION PO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="633" y="1851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-38" value="NILAI PERMIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="794" y="1851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-39" value="TERMIJN OF PAYMENT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="966" y="1851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-40" value="DP 50%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="1928" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-41" value="RFS 50%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="2035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-42" value="EXC. PPN 11%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1266" y="1964" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZBUk-cfIWDi0z4D1h4j-43" value="EXC. PPN 11%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="2072" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
