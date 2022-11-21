@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T04:33:56.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dKx0xCO3K8uNiYlSq3-X" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T06:01:49.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9NjVyH0v68uiY6Pc64I6" version="20.5.3" type="github">
   <diagram id="6X761wUMOgHPF1Ai5kYA" name="Halaman-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -160,6 +160,9 @@
         <mxCell id="fwMle3afaJR6kdwzlkPQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-46" target="fwMle3afaJR6kdwzlkPQ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-46" target="fwMle3afaJR6kdwzlkPQ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-46" value="click &lt;i&gt;STWAVE: pilih spectral energy&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="751" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -177,6 +180,45 @@
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-49" value="&lt;i&gt;masukkan water depth: 200&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1009" y="2032" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-67" target="fwMle3afaJR6kdwzlkPQ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-67" target="fwMle3afaJR6kdwzlkPQ-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-67" value="click &lt;i&gt;STWAVE: pilih model control&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="2115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-68" target="fwMle3afaJR6kdwzlkPQ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-68" value="&lt;i&gt;pilih propagation only&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="887" y="2295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-69" target="fwMle3afaJR6kdwzlkPQ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-69" value="&lt;i&gt;click specifiy: masukkan nilai tunggan pasang surut&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="887" y="2195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-70" value="&lt;i&gt;breakingwave: write indices&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="887" y="2400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-71" target="fwMle3afaJR6kdwzlkPQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-71" value="Run STWAVE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="2516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-72" target="fwMle3afaJR6kdwzlkPQ-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-72" value="Open file dari tempat penyimpanan data sebelumnya:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="2643" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-73" value="dari hasil pemodelan check tinggi gelombang pada titik tinjau&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="2752" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
