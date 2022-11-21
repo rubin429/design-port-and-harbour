@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T04:01:57.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="wHfgtAmXMg6Bwnu8e5Dx" type="github"><diagram id="6X761wUMOgHPF1Ai5kYA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-21T04:06:58.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5rfrBDFm64T1fipYEIss" version="20.5.3" type="github">
+  <diagram id="6X761wUMOgHPF1Ai5kYA" name="Halaman-1">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-1" target="fwMle3afaJR6kdwzlkPQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-1" value="SMS 8.1: STWAVE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="378" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-3" target="fwMle3afaJR6kdwzlkPQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-3" value="&lt;h1&gt;STWAVE&lt;/h1&gt;&lt;p&gt;- Pemodelan gelombang steady state&lt;/p&gt;&lt;p&gt;&lt;i&gt;Steady state: gelombang linear dimana amplitudo puncak gelombang dengan lembah memiliki tinggi dan panjang gelombang yang sama.&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="852" y="337.5" width="232" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-5" value="Pemodelan STWAVE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="501" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-6" target="fwMle3afaJR6kdwzlkPQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-6" value="Data Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="614" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-9" value="Peta Batimetri yang telah di &lt;i&gt;digitasi&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwMle3afaJR6kdwzlkPQ-10" target="fwMle3afaJR6kdwzlkPQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-10" value="Navionics Chart Viewer &amp;amp; Autocad" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="706.5" width="144" height="77" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
