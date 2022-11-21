@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T04:19:57.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fyiw2jyCwhYlx28nZruG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T04:22:11.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NXUA-9HTwcdIj2XbVXNi" version="20.5.3" type="github">
   <diagram id="6X761wUMOgHPF1Ai5kYA" name="Halaman-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -90,6 +90,15 @@
         </mxCell>
         <mxCell id="fwMle3afaJR6kdwzlkPQ-36" value="buat polygon tertutup pada bagian garis pantai (double click: pilih land)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="751" y="901" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-37" value="pastikan coverage pada feature object: &quot; stwave&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-38" value="buat grid-&amp;gt; lalu convert to 2D grid (feature object&amp;gt;&amp;gt; Map to 2D grid)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="1086" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwMle3afaJR6kdwzlkPQ-39" value="pastikan sudut grid yang dibuat sesuai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="749" y="1172" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
