@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T23:49:57.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Hr_p-dxuAtig7QoqAk83" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T03:44:59.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="A2bbtbhhPbOJD0X6-cJw" version="20.6.0" type="github">
   <diagram id="zwPZa73-P1lnx8H_J387" name="Halaman-1">
-    <mxGraphModel dx="2188" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-8" value="DIVISI SND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1457" y="669" width="120" height="60" as="geometry" />
+          <mxGeometry x="1457" y="608" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="J3kGW9BiTOBQ8gQxE3yy-10">
           <mxGeometry relative="1" as="geometry">
@@ -64,31 +64,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-21" value="Donasi Delivered" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1477" y="536" width="80" height="80" as="geometry" />
+          <mxGeometry x="1477" y="501" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-24" target="J3kGW9BiTOBQ8gQxE3yy-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-24" value="KMZ, APD, BOQ, TSSR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1457" y="793" width="120" height="60" as="geometry" />
+          <mxGeometry x="1457" y="703" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-26" target="J3kGW9BiTOBQ8gQxE3yy-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-26" value="DIVISI SND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="974" y="793" width="120" height="60" as="geometry" />
+          <mxGeometry x="974" y="703" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-28" target="J3kGW9BiTOBQ8gQxE3yy-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="J3kGW9BiTOBQ8gQxE3yy-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-28" target="J3kGW9BiTOBQ8gQxE3yy-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-28" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="994" y="913" width="80" height="80" as="geometry" />
+          <mxGeometry x="994" y="793" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-29" target="J3kGW9BiTOBQ8gQxE3yy-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J3kGW9BiTOBQ8gQxE3yy-29" value="Purchase Order&lt;br&gt;(PO)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="974" y="1049" width="120" height="60" as="geometry" />
+        <mxCell id="J3kGW9BiTOBQ8gQxE3yy-29" value="Purchase Order&lt;br&gt;(PO) IMPL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="974" y="929" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-34" target="J3kGW9BiTOBQ8gQxE3yy-43">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-34" value="DIVISI SND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1457" y="1049" width="120" height="60" as="geometry" />
+          <mxGeometry x="1457" y="929" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-43" target="J3kGW9BiTOBQ8gQxE3yy-45">
           <mxGeometry relative="1" as="geometry" />
@@ -242,8 +245,8 @@
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-109" value="ERM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="976" y="2385" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J3kGW9BiTOBQ8gQxE3yy-113" value="&lt;h1&gt;RECORD PROJECT DATA&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1995" y="376" width="366" height="72" as="geometry" />
+        <mxCell id="J3kGW9BiTOBQ8gQxE3yy-113" value="&lt;h1&gt;RECORD PROJECT DATA:&lt;/h1&gt;&lt;div&gt;HOMEPASS DATABASE DAN NILAI PEKERJAAN&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1989" y="351" width="366" height="72" as="geometry" />
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-115" value="&lt;h1&gt;RECORD PROJECT DATA&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1992" y="774" width="363" height="72" as="geometry" />
@@ -259,6 +262,15 @@
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-119" value="&lt;h1&gt;PAYMENT OF WARRANTY&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1992" y="2613" width="364" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="J3kGW9BiTOBQ8gQxE3yy-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-120" target="J3kGW9BiTOBQ8gQxE3yy-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3kGW9BiTOBQ8gQxE3yy-120" value="Purchase Order&lt;br&gt;(PO) PERMIT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="803" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J3kGW9BiTOBQ8gQxE3yy-122" value="DIVISI PERMIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1457" y="803" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
