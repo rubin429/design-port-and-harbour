@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T14:48:47.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DIS0LRbku4oePiPnO2bl" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T15:20:03.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JTgSJzsuHBlochga20wA" version="20.6.0" type="github">
   <diagram id="zwPZa73-P1lnx8H_J387" name="Halaman-1">
-    <mxGraphModel dx="1749" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,11 @@
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J3kGW9BiTOBQ8gQxE3yy-16" target="J3kGW9BiTOBQ8gQxE3yy-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRk-tGTRBeiVjUCc2vSS-40" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;dipastikan kekuatan hukum berita acara pertemuan dengan RT/RW&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J3kGW9BiTOBQ8gQxE3yy-19">
+          <mxGeometry x="0.0069" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="J3kGW9BiTOBQ8gQxE3yy-16" value="Berita Acara&lt;br&gt;Kontribusi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1003" y="339" width="120" height="60" as="geometry" />
@@ -304,9 +309,6 @@
         <mxCell id="DRk-tGTRBeiVjUCc2vSS-2" value="FORM TERIMA BAP DAN BAK" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1684" y="401" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DRk-tGTRBeiVjUCc2vSS-3" value="FORM BAK DELIVERED" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1684" y="508" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="DRk-tGTRBeiVjUCc2vSS-4" value="FORM REQ REVIEW SND (DRM)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1681" y="694" width="120" height="80" as="geometry" />
         </mxCell>
@@ -384,6 +386,21 @@
             <mxPoint x="1517" y="989" as="sourcePoint" />
             <mxPoint x="1398" y="1190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DRk-tGTRBeiVjUCc2vSS-37" value="SELESAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1262" y="2734" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DRk-tGTRBeiVjUCc2vSS-38" value="Deskripsi-&lt;br&gt;Lingkup proyek" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="634" y="327" width="86" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="DRk-tGTRBeiVjUCc2vSS-41" value="DIVISI ADMINISTRASI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="534" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DRk-tGTRBeiVjUCc2vSS-43" value="DIVISI PERMIT DAN DIVISI SND MELAKUKAN KOORDINASI UNTUK MELANJUTKAN KE DIVISI SND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1266" y="512" width="188" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="DRk-tGTRBeiVjUCc2vSS-44" value="MATERI PEMBAHASAN DENGAN DIVISI SND: KMZ, APD, BOQ, DAN TSSR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="581" width="188" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
