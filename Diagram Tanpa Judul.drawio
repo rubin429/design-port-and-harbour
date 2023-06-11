@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T15:25:08.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="4xFE5FFI5WMkLn4ulY8Y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T15:25:15.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="aOnlykOTBDTp7P-snXCv" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1149" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-30" target="RGUvr4DlTQq4D04LTztD-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-30" value="Preliminary Dimensi Elemen Struktur Plencenngan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="RGUvr4DlTQq4D04LTztD-30" value="&lt;i&gt;Preliminary&lt;/i&gt; Dimensi Elemen Struktur Plencenngan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="424" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-34" value="&lt;ul&gt;&lt;li&gt;Tiang Pancang&lt;/li&gt;&lt;li&gt;&lt;i&gt;Pile Cap&lt;/i&gt;&lt;/li&gt;&lt;li&gt;Balok&lt;/li&gt;&lt;li&gt;Pelat&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=left;" vertex="1" parent="1">
