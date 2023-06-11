@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T14:47:52.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="2OyPzUDJkXzps2BvL2Rn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T15:15:27.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="Pmx51I1nI7eqpgln9AGQ" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1149" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,32 +16,11 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-3" value="Studi Literatur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-6" target="RGUvr4DlTQq4D04LTztD-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-6" value="Data Lingkungan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-9" value="Data Karakteristik Kapal" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-10" value="Pengumpulan dan Analisis Data" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-12" value="Peta Bathymetri" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-14" value="Data Arus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-15" value="Data Arus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-16" value="Data Angin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-17" value="Data Tanah" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="RGUvr4DlTQq4D04LTztD-19" value="&lt;ol&gt;&lt;li&gt;Data Lingkungan ( batimetri, pasang surut, angin, arus, dan tanah)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Kapal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Alat Bongkar Muat&lt;/li&gt;&lt;/ol&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="450" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
