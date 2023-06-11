@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T15:16:03.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="LKh5D5brRVrevGcaEMy4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T15:19:49.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="I9zp6x0RJlEOzDJ6UkBD" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1149" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-19" value="&lt;ol&gt;&lt;li&gt;Data Lingkungan ( batimetri, pasang surut, angin, arus, dan tanah)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Kapal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Alat Bongkar Muat&lt;/li&gt;&lt;/ol&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RGUvr4DlTQq4D04LTztD-24" value="Penentuan Layout dan dimensi Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
