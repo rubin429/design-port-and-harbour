@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T16:09:54.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="eXq9lSwvl0F4PfMHXbA2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T16:10:18.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="AausoFdb3F0LalnvH7oT" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1702" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2043" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,16 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-56" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-55">
           <mxGeometry x="-0.8582" y="3" relative="1" as="geometry">
             <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RGUvr4DlTQq4D04LTztD-85" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-55">
+          <mxGeometry x="-0.8582" y="3" relative="1" as="geometry">
+            <mxPoint x="236" y="-126" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RGUvr4DlTQq4D04LTztD-86" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-55">
+          <mxGeometry x="-0.8582" y="3" relative="1" as="geometry">
+            <mxPoint x="226" y="-46" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-53" target="RGUvr4DlTQq4D04LTztD-64">
