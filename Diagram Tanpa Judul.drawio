@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T16:07:43.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="gL3JT85nZjIkBgiDP-R9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T16:09:00.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.8.5" etag="VNgI4CL2qZyT7eblBZog" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1702" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -95,8 +95,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="209.83" y="1211" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="98.83" y="1066" />
-              <mxPoint x="98.83" y="634" />
+              <mxPoint x="99" y="1023" />
+              <mxPoint x="99" y="634" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -110,63 +110,58 @@
             <mxPoint x="580" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-61" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-60">
-          <mxGeometry x="-0.298" y="-2" relative="1" as="geometry">
-            <mxPoint x="36" y="-92" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-82" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-60">
-          <mxGeometry x="-0.298" y="-2" relative="1" as="geometry">
-            <mxPoint x="68" y="-17" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-83" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-60">
           <mxGeometry x="-0.298" y="-2" relative="1" as="geometry">
-            <mxPoint x="64" y="-176" as="offset" />
+            <mxPoint x="64" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RGUvr4DlTQq4D04LTztD-84" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-60">
+          <mxGeometry x="-0.298" y="-2" relative="1" as="geometry">
+            <mxPoint x="63" y="-116" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-53" target="RGUvr4DlTQq4D04LTztD-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-53" value="Defleksi&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;akibat beban&lt;/sub&gt;&amp;nbsp;&amp;lt; defleksi&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;izin&lt;/sub&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="422.33" y="1004" width="275" height="123" as="geometry" />
+          <mxGeometry x="422.33" y="990" width="275" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-64" target="RGUvr4DlTQq4D04LTztD-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="1310" as="targetPoint" />
+            <mxPoint x="375" y="1249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-64" value="&lt;ul&gt;&lt;li&gt;Gaya Dalam Elemen Struktur&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1201" width="190" height="49" as="geometry" />
+          <mxGeometry x="280" y="1140" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-66" target="RGUvr4DlTQq4D04LTztD-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-66" value="&lt;ul&gt;&lt;li&gt;Reaksi Perletakan Tiang Pancang&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1201" width="190" height="49" as="geometry" />
+          <mxGeometry x="630" y="1140" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-70" target="RGUvr4DlTQq4D04LTztD-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-70" value="Penulangan Elemen Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="1269" width="120" height="60" as="geometry" />
+          <mxGeometry x="316" y="1208" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-72" target="RGUvr4DlTQq4D04LTztD-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-72" value="Analisis Daya Dukung Tiang Pancang" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="666" y="1269" width="120" height="60" as="geometry" />
+          <mxGeometry x="666" y="1208" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-74" target="RGUvr4DlTQq4D04LTztD-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="1500" as="targetPoint" />
+            <mxPoint x="560" y="1439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-74" value="&lt;i&gt;Detailed Engineering Design &lt;/i&gt;Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="499.83" y="1329" width="120" height="60" as="geometry" />
+          <mxGeometry x="499.83" y="1268" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-79" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="509.83" y="1410" width="100" height="60" as="geometry" />
+          <mxGeometry x="509.83" y="1349" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
