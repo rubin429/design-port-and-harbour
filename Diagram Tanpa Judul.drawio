@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T13:12:19.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cT_DYB25X1SIRyFf6jkb" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T13:19:34.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bKaz5qk1m-HHw59fACxt" version="21.3.8" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1509" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,12 +78,12 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-46" value="0.8 &amp;lt; Nilai&lt;i&gt;&amp;nbsp;UCR &amp;lt; 1.0&lt;/i&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="471.33" y="908" width="177" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RGUvr4DlTQq4D04LTztD-53" target="RGUvr4DlTQq4D04LTztD-30" edge="1">
+        <mxCell id="RGUvr4DlTQq4D04LTztD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RGUvr4DlTQq4D04LTztD-53" target="u0lFD6W9siVNVVhDt6ij-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="209.83" y="1211" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="99" y="1023" />
-              <mxPoint x="99" y="634" />
+              <mxPoint x="210" y="1023" />
+              <mxPoint x="210" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -169,33 +169,21 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-79" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="509.83" y="1331" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0lFD6W9siVNVVhDt6ij-6" target="u0lFD6W9siVNVVhDt6ij-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="471" y="941" as="sourcePoint" />
-            <mxPoint x="500" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0lFD6W9siVNVVhDt6ij-3" target="RGUvr4DlTQq4D04LTztD-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Jika UCR &amp;lt; 0.80,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;maka memperkecil penampang elemen struktur&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="710" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-46" target="u0lFD6W9siVNVVhDt6ij-6">
+        <mxCell id="u0lFD6W9siVNVVhDt6ij-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-46" target="u0lFD6W9siVNVVhDt6ij-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="941" />
+              <mxPoint x="210" y="760" />
             </Array>
             <mxPoint x="471" y="941" as="sourcePoint" />
-            <mxPoint x="230" y="770" as="targetPoint" />
+            <mxPoint x="499" y="634" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0lFD6W9siVNVVhDt6ij-6" target="RGUvr4DlTQq4D04LTztD-36">
+        <mxCell id="u0lFD6W9siVNVVhDt6ij-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0lFD6W9siVNVVhDt6ij-11" target="RGUvr4DlTQq4D04LTztD-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Jika UCR &amp;gt; 1.00,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;maka memperbesar penampang elemen struktur&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="770" width="210" height="40" as="geometry" />
+        <mxCell id="u0lFD6W9siVNVVhDt6ij-11" value="Perubahan Dimensi Elemen Struktur Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="296" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
