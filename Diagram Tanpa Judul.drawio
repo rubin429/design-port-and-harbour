@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T13:22:12.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NzqrTYFxzdZYtX_NXJ7M" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T01:17:48.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fbTTAxSURB2o7S4z60Xf" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="2358" dy="1038" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-3" value="Studi Literatur" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="499.83" y="404" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-10" target="RGUvr4DlTQq4D04LTztD-19" edge="1">
+        <mxCell id="RGUvr4DlTQq4D04LTztD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RGUvr4DlTQq4D04LTztD-10" target="RGUvr4DlTQq4D04LTztD-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-10" target="RGUvr4DlTQq4D04LTztD-24" edge="1">
@@ -28,19 +28,19 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-19" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Lingkungan ( batimetri, pasang surut, angin, &lt;i&gt;hindcasting gelombang,&lt;/i&gt;&amp;nbsp;arus, dan tanah)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Kapal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Alat Bongkar Muat&lt;/li&gt;&lt;/ol&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="89.83" y="441" width="312" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-24" target="RGUvr4DlTQq4D04LTztD-28" edge="1">
+        <mxCell id="RGUvr4DlTQq4D04LTztD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-24" target="RGUvr4DlTQq4D04LTztD-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-24" target="RGUvr4DlTQq4D04LTztD-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-24" value="Penentuan Layout dan dimensi Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="RGUvr4DlTQq4D04LTztD-24" value="Penentuan Ukuran Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="499.83" y="521" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-28" value="&lt;ul&gt;&lt;li&gt;Layout Plencengan&lt;/li&gt;&lt;li&gt;Kedalaman Perairan&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=left;" parent="1" vertex="1">
+        <mxCell id="RGUvr4DlTQq4D04LTztD-28" value="&lt;ul&gt;&lt;li&gt;Ukuran Plencengan&lt;/li&gt;&lt;li&gt;Kedalaman Perairan&lt;/li&gt;&lt;/ul&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=left;" parent="1" vertex="1">
           <mxGeometry x="697.33" y="528.5" width="190" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-30" target="RGUvr4DlTQq4D04LTztD-34" edge="1">
+        <mxCell id="RGUvr4DlTQq4D04LTztD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-30" target="RGUvr4DlTQq4D04LTztD-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-30" target="RGUvr4DlTQq4D04LTztD-36" edge="1">
@@ -55,7 +55,7 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RGUvr4DlTQq4D04LTztD-36" target="RGUvr4DlTQq4D04LTztD-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RGUvr4DlTQq4D04LTztD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-36" target="RGUvr4DlTQq4D04LTztD-43" edge="1">
+        <mxCell id="RGUvr4DlTQq4D04LTztD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RGUvr4DlTQq4D04LTztD-36" target="RGUvr4DlTQq4D04LTztD-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-36" value="Penentuan Beban dan Kombinasi Pembebanan Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -102,12 +102,12 @@
             <mxPoint x="237" y="-46" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-1" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-55">
+        <mxCell id="u0lFD6W9siVNVVhDt6ij-1" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RGUvr4DlTQq4D04LTztD-55" vertex="1" connectable="0">
           <mxGeometry x="-0.8582" y="3" relative="1" as="geometry">
             <mxPoint x="237" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-2" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RGUvr4DlTQq4D04LTztD-55">
+        <mxCell id="u0lFD6W9siVNVVhDt6ij-2" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RGUvr4DlTQq4D04LTztD-55" vertex="1" connectable="0">
           <mxGeometry x="-0.8582" y="3" relative="1" as="geometry">
             <mxPoint x="-4" y="-96" as="offset" />
           </mxGeometry>
@@ -169,7 +169,7 @@
         <mxCell id="RGUvr4DlTQq4D04LTztD-79" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="509.83" y="1331" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGUvr4DlTQq4D04LTztD-46" target="u0lFD6W9siVNVVhDt6ij-11">
+        <mxCell id="u0lFD6W9siVNVVhDt6ij-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RGUvr4DlTQq4D04LTztD-46" target="u0lFD6W9siVNVVhDt6ij-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="941" />
@@ -179,10 +179,10 @@
             <mxPoint x="499" y="634" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0lFD6W9siVNVVhDt6ij-11" target="RGUvr4DlTQq4D04LTztD-36">
+        <mxCell id="u0lFD6W9siVNVVhDt6ij-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="u0lFD6W9siVNVVhDt6ij-11" target="RGUvr4DlTQq4D04LTztD-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u0lFD6W9siVNVVhDt6ij-11" value="Perubahan Dimensi Elemen Struktur Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="u0lFD6W9siVNVVhDt6ij-11" value="Perubahan Dimensi Elemen Struktur Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="296" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
