@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T04:53:40.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u6lXE922_F8AYzPQLkjS" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T04:55:20.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wKJaZmIHA3EN_FahoDGu" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1753" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="631" dy="286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,7 +300,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2038" y="580" />
-              <mxPoint x="2123" y="580" />
+              <mxPoint x="2102" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -341,7 +341,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-41" value="&lt;i&gt;Hindcasting &lt;/i&gt;Gelombang" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2056" y="603" width="134" height="36" as="geometry" />
+          <mxGeometry x="2035" y="603" width="134" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-45" target="rYCNu0aDo_Y2NOdWBEIi-96">
           <mxGeometry relative="1" as="geometry" />
@@ -353,13 +353,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-47" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Data Gelombang&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2060.5" y="674" width="125" height="26" as="geometry" />
+          <mxGeometry x="2039.5" y="674" width="125" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-50" target="rYCNu0aDo_Y2NOdWBEIi-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-50" value="Perhitungan Beban Gelombang" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="846" width="114" height="36" as="geometry" />
+          <mxGeometry x="2045" y="846" width="114" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-53" target="rYCNu0aDo_Y2NOdWBEIi-99">
           <mxGeometry relative="1" as="geometry" />
@@ -453,13 +453,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-73" value="Pemodelan Gelombang" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2073.5" y="719" width="99" height="36" as="geometry" />
+          <mxGeometry x="2052.5" y="719" width="99" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-74" target="rYCNu0aDo_Y2NOdWBEIi-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-74" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Gelombang Desain&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2056" y="777" width="134" height="26" as="geometry" />
+          <mxGeometry x="2035" y="777" width="134" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-78" target="rYCNu0aDo_Y2NOdWBEIi-53">
           <mxGeometry relative="1" as="geometry" />
@@ -551,7 +551,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-98" value="&lt;div style=&quot;text-align: left;&quot;&gt;Beban Gelombang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2053" y="912" width="140" height="26" as="geometry" />
+          <mxGeometry x="2032" y="912" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-99" target="rYCNu0aDo_Y2NOdWBEIi-100">
           <mxGeometry relative="1" as="geometry">
