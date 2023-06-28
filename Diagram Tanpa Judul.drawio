@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T05:04:09.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NoXM9whANIPVonVWJD2y" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T05:05:26.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WrEfkcQTCDTzXBDYKkHY" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1772" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -604,8 +604,14 @@
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-122" value="&lt;i&gt;Check &lt;/i&gt;nilai UCR (0.8 &amp;lt; UCR&lt;i&gt;&amp;lt; 1.0)&lt;/i&gt;&lt;br&gt;dan&lt;br&gt;nilai defleksi &amp;lt; izin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1552.5" y="1124" width="265.5" height="137" as="geometry" />
         </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-125" target="rYCNu0aDo_Y2NOdWBEIi-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-125" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gaya Dalam&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1515" y="1297" width="169" height="34" as="geometry" />
+          <mxGeometry x="1492" y="1297" width="169" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-126" target="rYCNu0aDo_Y2NOdWBEIi-138">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-126" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reaksi Perletakan Tiang Pancang&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="1678" y="1297" width="167" height="34" as="geometry" />
@@ -627,6 +633,12 @@
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-134" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dimensi Elemen Struktur Baru&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="1306" y="1056" width="195" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-137" value="Perhitungan Tulangan Elemen Struktur Baru" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1498" y="1371" width="157" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-138" value="Analisis Daya Dukung Tiang Pancang" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1683" y="1371" width="157" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
