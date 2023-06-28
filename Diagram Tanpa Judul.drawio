@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T02:25:52.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SrKz2i6oS386BKnZAnPp" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T02:27:16.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JC8lUBxBl0CbUB6AQrMz" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1247" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -345,6 +345,18 @@
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-57" value="&lt;i&gt;Preliminary &lt;/i&gt;Dimensi Elemen Struktur Plencengan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1416" y="723" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-59" value="&lt;div style=&quot;&quot;&gt;Dimensi Tiang Pancang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="795" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-60" value="&lt;div style=&quot;&quot;&gt;Dimensi &lt;i&gt;Pile Cap&lt;/i&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="840" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-61" value="&lt;div style=&quot;&quot;&gt;Dimensi Balok&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="885" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-62" value="&lt;div style=&quot;&quot;&gt;Dimensi Pelat&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="925.5" width="186" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
