@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T03:12:01.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OC91I4HuEF6rfS9WJl3k" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T03:12:32.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="piwpazDPANqeonkJ5MEv" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1664" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -483,6 +483,9 @@
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-99" value="&lt;div style=&quot;text-align: left;&quot;&gt;Beban Gempa&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="2407" y="908" width="158" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-100" value="Pemodelan dan Analisis Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="953" width="120" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
