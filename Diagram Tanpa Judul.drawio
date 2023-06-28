@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T02:31:31.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T-frtQG83w1vaxjrWVCN" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T02:31:42.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nvccFVL0pWLQCa3PP0ih" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1509" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,41 +345,41 @@
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rYCNu0aDo_Y2NOdWBEIi-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="951" y="859.9999999999998" as="sourcePoint" />
+            <mxPoint x="604.3299999999999" y="1439.9999999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="951" y="887" />
-              <mxPoint x="830" y="887" />
-              <mxPoint x="830" y="924" />
+              <mxPoint x="604.3299999999999" y="1467" />
+              <mxPoint x="483.33" y="1467" />
+              <mxPoint x="483.33" y="1504" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="rYCNu0aDo_Y2NOdWBEIi-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="951" y="859.9999999999998" as="sourcePoint" />
+            <mxPoint x="604.3299999999999" y="1439.9999999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="951" y="887" />
-              <mxPoint x="830" y="887" />
-              <mxPoint x="830" y="963" />
+              <mxPoint x="604.3299999999999" y="1467" />
+              <mxPoint x="483.33" y="1467" />
+              <mxPoint x="483.33" y="1543" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rYCNu0aDo_Y2NOdWBEIi-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="951" y="859.9999999999998" as="sourcePoint" />
+            <mxPoint x="604.3299999999999" y="1439.9999999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="951" y="887" />
-              <mxPoint x="830" y="887" />
-              <mxPoint x="830" y="1014" />
+              <mxPoint x="604.3299999999999" y="1467" />
+              <mxPoint x="483.33" y="1467" />
+              <mxPoint x="483.33" y="1594" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rYCNu0aDo_Y2NOdWBEIi-62">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="951" y="859.9999999999998" as="sourcePoint" />
+            <mxPoint x="604.3299999999999" y="1439.9999999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="951" y="887" />
-              <mxPoint x="830" y="887" />
-              <mxPoint x="830" y="1055" />
+              <mxPoint x="604.3299999999999" y="1467" />
+              <mxPoint x="483.33" y="1467" />
+              <mxPoint x="483.33" y="1635" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -390,16 +390,16 @@
           <mxGeometry x="1416" y="723" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-59" value="&lt;div style=&quot;&quot;&gt;Dimensi Tiang Pancang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="858" y="909" width="186" height="30" as="geometry" />
+          <mxGeometry x="511.33" y="1489" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-60" value="&lt;div style=&quot;&quot;&gt;Dimensi &lt;i&gt;Pile Cap&lt;/i&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="858" y="954" width="186" height="30" as="geometry" />
+          <mxGeometry x="511.33" y="1534" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-61" value="&lt;div style=&quot;&quot;&gt;Dimensi Balok&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="858" y="999" width="186" height="30" as="geometry" />
+          <mxGeometry x="511.33" y="1579" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-62" value="&lt;div style=&quot;&quot;&gt;Dimensi Pelat&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="858" y="1039.5" width="186" height="30" as="geometry" />
+          <mxGeometry x="511.33" y="1619.5" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-68" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Dimensi Elemen Struktur&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="1398" y="799" width="186" height="26" as="geometry" />
