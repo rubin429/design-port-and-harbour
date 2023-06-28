@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T03:13:32.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dJnY4S3BlPpnWTDTm4li" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T03:14:37.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jzm6WsYqF5Ql3Ax-_MPf" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="957" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,14 +490,41 @@
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-88" value="Pemilihan Tipe Fender dan Reaksi Fender" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1062" y="778" width="150" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-96" target="rYCNu0aDo_Y2NOdWBEIi-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-96" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Beban Arus&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="1836" y="908" width="158" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-97" target="rYCNu0aDo_Y2NOdWBEIi-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2117" y="960" />
+              <mxPoint x="1690" y="960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-97" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Beban &lt;i&gt;Mooring&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="2038" y="908" width="158" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-98" target="rYCNu0aDo_Y2NOdWBEIi-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2285" y="960" />
+              <mxPoint x="1690" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-98" value="&lt;div style=&quot;text-align: left;&quot;&gt;Beban Gelombang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="2206" y="908" width="158" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-99" target="rYCNu0aDo_Y2NOdWBEIi-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2493" y="960" />
+              <mxPoint x="1690" y="960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-99" value="&lt;div style=&quot;text-align: left;&quot;&gt;Beban Gempa&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="2414" y="908" width="158" height="26" as="geometry" />
