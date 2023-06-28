@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T01:44:59.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="D0ueZJDwKhL4xzB8vao6" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T01:47:37.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S37k_p0jDCJJ5Dv5uNrU" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -186,11 +186,11 @@
           <mxGeometry x="296" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="353" width="100" height="29" as="geometry" />
+          <mxGeometry x="1640" y="330" width="100" height="29" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="rYCNu0aDo_Y2NOdWBEIi-3" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1690" y="373.9999999999999" as="sourcePoint" />
+            <mxPoint x="1690" y="350.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-3" target="rYCNu0aDo_Y2NOdWBEIi-4">
@@ -200,10 +200,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-3" value="Studi Literatur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="404" width="120" height="29" as="geometry" />
+          <mxGeometry x="1630" y="381" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-4" target="rYCNu0aDo_Y2NOdWBEIi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-4" target="rYCNu0aDo_Y2NOdWBEIi-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-4" value="Pengumpulan Data Operasional" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="479" width="120" height="42" as="geometry" />
+          <mxGeometry x="1190" y="456" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.415;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-6" target="rYCNu0aDo_Y2NOdWBEIi-16">
           <mxGeometry relative="1" as="geometry" />
@@ -218,7 +224,7 @@
           <mxGeometry x="1230" y="534" width="186" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-8" value="Pengumpulan Data Lingkungan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2043" y="479" width="120" height="42" as="geometry" />
+          <mxGeometry x="2043" y="456" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-9" target="rYCNu0aDo_Y2NOdWBEIi-16">
           <mxGeometry relative="1" as="geometry" />
@@ -239,7 +245,7 @@
           <mxGeometry x="2426.5" y="534" width="186" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-16" value="Penentuan Ukuran Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1416" y="640" width="150" height="60" as="geometry" />
+          <mxGeometry x="1416" y="604" width="150" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
