@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T03:10:48.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="huzYdp18awV3SLDbzDIX" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T03:11:49.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eBTEjsFd34qmnezxR8ow" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1740" dy="944" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -471,6 +471,18 @@
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-88" value="Pemilihan Tipe Fender dan Reaksi Fender" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1062" y="778" width="150" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-96" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Beban Arus&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1832" y="908" width="158" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-97" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Beban &lt;i&gt;Mooring&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2034" y="908" width="158" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-98" value="&lt;div style=&quot;text-align: left;&quot;&gt;Beban Gelombang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2202" y="908" width="158" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-99" value="&lt;div style=&quot;text-align: left;&quot;&gt;Beban Gempa&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2407" y="908" width="158" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
