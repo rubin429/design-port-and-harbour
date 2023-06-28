@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T02:31:16.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PYCXNy_84mKjvytvKYec" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T02:31:31.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T-frtQG83w1vaxjrWVCN" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1509" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -311,10 +311,10 @@
           <mxGeometry x="1416" y="604" width="150" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-28" value="Perhitungan Beban Kendaraan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1248" y="640" width="150" height="36" as="geometry" />
+          <mxGeometry x="1248" y="849" width="150" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-29" value="Perhitungan Beban Berthing" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1062" y="640" width="150" height="36" as="geometry" />
+          <mxGeometry x="1062" y="849" width="150" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-34" value="Perhitungan Beban Mooring" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2040" y="640" width="150" height="36" as="geometry" />
