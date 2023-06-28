@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T04:22:39.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="allDerTr4Ey5-_hE6TQr" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T04:23:11.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="83nrktE4ib9tzQIVOYqu" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1183" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1690" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -286,26 +286,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-11" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Data Arus&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1787" y="534" width="186" height="26" as="geometry" />
+          <mxGeometry x="1813" y="534" width="134" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-12" target="rYCNu0aDo_Y2NOdWBEIi-34">
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-12" target="rYCNu0aDo_Y2NOdWBEIi-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2087" y="580" />
+              <mxPoint x="2038" y="580" />
               <mxPoint x="1951" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-12" target="rYCNu0aDo_Y2NOdWBEIi-41">
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-12" target="rYCNu0aDo_Y2NOdWBEIi-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2087" y="580" />
+              <mxPoint x="2038" y="580" />
               <mxPoint x="2155" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-12" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Data Angin&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1993.5" y="534" width="186" height="26" as="geometry" />
+          <mxGeometry x="1983" y="533" width="110.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-13" target="rYCNu0aDo_Y2NOdWBEIi-78">
           <mxGeometry relative="1" as="geometry" />
