@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T03:05:53.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Gg1gQp-d_7y7wooFgKK5" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T03:06:10.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l008bsXuXscHxqfLszpo" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1367" dy="741" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -315,6 +315,9 @@
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-16" value="Penentuan Ukuran Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1416" y="604" width="150" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-28" target="rYCNu0aDo_Y2NOdWBEIi-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-28" value="Perhitungan Beban Kendaraan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1248" y="849" width="150" height="36" as="geometry" />
         </mxCell>
@@ -418,6 +421,9 @@
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-68" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Dimensi Elemen Struktur&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="1398" y="799" width="186" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-71" target="rYCNu0aDo_Y2NOdWBEIi-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-71" value="Perhitungan Beban Elemen Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1416" y="849" width="150" height="36" as="geometry" />
         </mxCell>
@@ -446,7 +452,7 @@
           <mxGeometry x="1230" y="913" width="186" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-85" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Beban Elemen Struktur&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="913" width="186" height="26" as="geometry" />
+          <mxGeometry x="1412" y="913" width="158" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-86" target="rYCNu0aDo_Y2NOdWBEIi-87">
           <mxGeometry relative="1" as="geometry" />
