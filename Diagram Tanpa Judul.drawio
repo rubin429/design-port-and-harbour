@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T04:58:42.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ehgWjpGrhRwloftuJMel" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T05:02:56.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="b8wpByvCaKN6SU1g_EWx" version="21.5.1" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1753" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1575" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -593,12 +593,12 @@
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-122" target="rYCNu0aDo_Y2NOdWBEIi-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-122" target="rYCNu0aDo_Y2NOdWBEIi-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1420" y="1193" />
-              <mxPoint x="1420" y="867" />
-            </Array>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-122" target="rYCNu0aDo_Y2NOdWBEIi-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-133" value="&lt;b&gt;Tidak&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rYCNu0aDo_Y2NOdWBEIi-132">
+          <mxGeometry x="-0.3021" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-122" value="&lt;i&gt;Check &lt;/i&gt;nilai UCR (0.8 &amp;lt; UCR&lt;i&gt;&amp;lt; 1.0)&lt;/i&gt;&lt;br&gt;dan&lt;br&gt;nilai defleksi &amp;lt; izin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
@@ -609,6 +609,22 @@
         </mxCell>
         <mxCell id="rYCNu0aDo_Y2NOdWBEIi-126" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reaksi Perletakan Tiang Pancang&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="1678" y="1297" width="167" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-131" target="rYCNu0aDo_Y2NOdWBEIi-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-131" value="Perubahan Dimensi Elemen Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1343.5" y="1178" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=10;" edge="1" parent="1" source="rYCNu0aDo_Y2NOdWBEIi-134" target="rYCNu0aDo_Y2NOdWBEIi-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1417" y="867" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYCNu0aDo_Y2NOdWBEIi-134" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dimensi Elemen Struktur Baru&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1306" y="1056" width="195" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
