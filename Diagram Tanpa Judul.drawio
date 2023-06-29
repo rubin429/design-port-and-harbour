@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T04:10:18.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yTX0DK28J3cQgtPLMM6h" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T04:10:41.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-2D3PTRyhx1X_fN-m-Fi" version="21.5.2" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="577" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -671,7 +671,7 @@
           <mxGeometry x="2895" y="479.98" width="107.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="VMYGwth4vuu0uvkN4FCl-5" value="Panjang&amp;nbsp; &lt;i&gt;Fetch&lt;/i&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3081" y="479.98" width="107.5" height="26" as="geometry" />
+          <mxGeometry x="3081" y="479.98" width="118" height="27.02" as="geometry" />
         </mxCell>
         <mxCell id="VMYGwth4vuu0uvkN4FCl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VMYGwth4vuu0uvkN4FCl-6" target="VMYGwth4vuu0uvkN4FCl-4">
           <mxGeometry relative="1" as="geometry">
@@ -687,8 +687,8 @@
         <mxCell id="VMYGwth4vuu0uvkN4FCl-7" value="Koreksi Kecepatan Angin" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2855" y="532.48" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="VMYGwth4vuu0uvkN4FCl-8" value="Perhitungan Panjang Fetch" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3117.5" y="532.48" width="120" height="31" as="geometry" />
+        <mxCell id="VMYGwth4vuu0uvkN4FCl-8" value="Perhitungan Panjang Fetch Efektif" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3075" y="535.5" width="120" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
