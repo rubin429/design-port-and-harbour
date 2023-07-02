@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T12:22:55.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zDI8ELeIRB4tRjDDJKtW" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T15:33:56.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="95RHJV4zFHzMOzMttkfh" version="21.5.2" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1346" dy="649" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="944" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -690,13 +690,13 @@
         <mxCell id="VMYGwth4vuu0uvkN4FCl-6" value="Pengumpulan Data&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2971" y="404" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="LEPxgcE7ptZNPMjCQ6iq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMYGwth4vuu0uvkN4FCl-7" target="VMYGwth4vuu0uvkN4FCl-14">
+        <mxCell id="LEPxgcE7ptZNPMjCQ6iq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VMYGwth4vuu0uvkN4FCl-7" target="VMYGwth4vuu0uvkN4FCl-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VMYGwth4vuu0uvkN4FCl-7" value="Koreksi Kecepatan Angin" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2888.75" y="535.5" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="LEPxgcE7ptZNPMjCQ6iq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VMYGwth4vuu0uvkN4FCl-8" target="VMYGwth4vuu0uvkN4FCl-16">
+        <mxCell id="LEPxgcE7ptZNPMjCQ6iq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VMYGwth4vuu0uvkN4FCl-8" target="VMYGwth4vuu0uvkN4FCl-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VMYGwth4vuu0uvkN4FCl-8" value="Perhitungan Panjang Fetch Efektif" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
