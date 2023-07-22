@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T02:01:18.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5o-B1WYXjrgkMfH1W0J_" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T02:02:20.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3ovn792r9g0Sb8PsTr4o" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1435" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -793,6 +793,9 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-125" target="d0vo8mFOytAZ6KamSjrr-360">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-125" target="d0vo8mFOytAZ6KamSjrr-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-125" value="Pengumpulan Data Operasional" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="203" y="2230" width="147" height="31" as="geometry" />
         </mxCell>
@@ -989,7 +992,7 @@
           <mxGeometry x="-10" y="2526.01" width="150" height="50.99" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-370" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="2300" width="160" height="233" as="geometry" />
+          <mxGeometry x="631" y="2268.13" width="160" height="233" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-371" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-370">
           <mxGeometry width="160" height="233" as="geometry" />
@@ -1009,11 +1012,17 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-376" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Data Tanah&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-370">
           <mxGeometry x="7.829999999999984" y="181" width="133" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-382" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-377" target="d0vo8mFOytAZ6KamSjrr-371">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-385" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-377" target="d0vo8mFOytAZ6KamSjrr-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-377" value="Pengumpulan Data Lingkungan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430.00000000000006" y="2230" width="147" height="31" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-380" value="Penentuan Ukuran Plencengan Dermaga" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="321" y="2309" width="150" height="36" as="geometry" />
+          <mxGeometry x="323" y="2309.01" width="150" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
