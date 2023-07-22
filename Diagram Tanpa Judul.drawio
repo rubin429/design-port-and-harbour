@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:06:28.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3BjrQ9E7SWNexo2rDeBd" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:11:06.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1KBTebf6To6APQDbfooX" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1560" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1000,6 +1000,9 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-402" target="d0vo8mFOytAZ6KamSjrr-368">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-432" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-402" target="d0vo8mFOytAZ6KamSjrr-428">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-402" value="&lt;i&gt;Preliminary &lt;/i&gt;Dimensi Elemen Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="2411.75" width="150" height="36" as="geometry" />
         </mxCell>
@@ -1034,7 +1037,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-411" value="Perhitungan Beban Lingkungan" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="747.5" y="2600.0000000000005" width="150" height="36" as="geometry" />
+          <mxGeometry x="748" y="2640.0000000000005" width="150" height="36" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-371" target="d0vo8mFOytAZ6KamSjrr-411">
           <mxGeometry relative="1" as="geometry" />
@@ -1073,7 +1076,7 @@
           <mxGeometry x="915" y="2464.0200000000004" width="135" height="45.99" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-426" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="742" y="2670" width="160" height="150" as="geometry" />
+          <mxGeometry x="742.5" y="2710" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-416" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Beban Angin&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-426">
           <mxGeometry x="13.249999999999886" y="10" width="133" height="26" as="geometry" />
@@ -1090,11 +1093,14 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-420" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-426">
           <mxGeometry width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-430" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="410" y="2480" width="160" height="170" as="geometry" />
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-431" value="Perhitungan Beban Mati Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="577" y="2640.0000000000005" width="150" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-425" value="" style="group" vertex="1" connectable="0" parent="d0vo8mFOytAZ6KamSjrr-430">
-          <mxGeometry x="10" y="10" width="133" height="145" as="geometry" />
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-433" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="424" y="2460" width="146" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-425" value="" style="group" vertex="1" connectable="0" parent="d0vo8mFOytAZ6KamSjrr-433">
+          <mxGeometry x="6" y="10" width="133" height="145" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-421" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Dimensi Pelat&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-425">
           <mxGeometry width="133" height="26" as="geometry" />
@@ -1108,11 +1114,14 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-424" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dimensi Tiang &lt;br&gt;Pancang&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-425">
           <mxGeometry y="115" width="133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-428" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-430">
-          <mxGeometry width="160" height="170" as="geometry" />
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-428" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-433">
+          <mxGeometry width="146" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-431" value="Perhitungan Beban Mati Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="481" y="2660.0000000000005" width="150" height="36" as="geometry" />
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-434" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-428" target="d0vo8mFOytAZ6KamSjrr-431">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-435" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Beban Mati Struktur&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="584.9999999999999" y="2719.01" width="133" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
