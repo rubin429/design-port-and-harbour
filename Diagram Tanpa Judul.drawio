@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T09:00:49.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NhD3yBmvnWQfaX4GdU-E" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T09:03:08.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ulqZDRV_1DxZzGVWwJVQ" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1596" dy="649" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -953,20 +953,12 @@
             <mxPoint x="7" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-497" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-458" target="d0vo8mFOytAZ6KamSjrr-495">
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-520" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-458" target="d0vo8mFOytAZ6KamSjrr-495">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-512" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d0vo8mFOytAZ6KamSjrr-497">
-          <mxGeometry x="-0.8362" y="2" relative="1" as="geometry">
-            <mxPoint x="6" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-516" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-458" target="d0vo8mFOytAZ6KamSjrr-496">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="508" y="3131" />
-              <mxPoint x="508" y="3313" />
-            </Array>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-521" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d0vo8mFOytAZ6KamSjrr-520">
+          <mxGeometry x="-0.4952" y="1" relative="1" as="geometry">
+            <mxPoint x="16" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-458" value="0.8 &amp;lt; UCR&amp;lt; 1.0&lt;br&gt;dan&lt;br&gt;Defleksi &amp;lt; izin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
@@ -993,8 +985,20 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-492" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-490" target="d0vo8mFOytAZ6KamSjrr-449">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-518" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-495" target="d0vo8mFOytAZ6KamSjrr-514">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-522" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-495" target="d0vo8mFOytAZ6KamSjrr-496">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-495" value="Penulangan Elemen Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="538" y="3168" width="150" height="50.99" as="geometry" />
+          <mxGeometry x="536" y="3196" width="150" height="50.99" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-519" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-496" target="d0vo8mFOytAZ6KamSjrr-515">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-524" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-496" target="d0vo8mFOytAZ6KamSjrr-523">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-496" value="Perhitungan Kedalaman Tiang Pancang" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="536" y="3287" width="150" height="50.99" as="geometry" />
@@ -1096,7 +1100,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="757" y="2932" />
-              <mxPoint x="757" y="3194" />
+              <mxPoint x="757" y="3221" />
+              <mxPoint x="686" y="3221" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1136,10 +1141,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-514" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Spesifikasi Penulangan &lt;br&gt;Elemen Struktur&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="532" y="3239" width="179" height="28" as="geometry" />
+          <mxGeometry x="308.49" y="3207.5" width="179" height="28" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-515" value="&lt;div style=&quot;&quot;&gt;Kedalaman Tiang Pancang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="521.5" y="3355" width="179" height="28" as="geometry" />
+          <mxGeometry x="308.5" y="3298.5" width="179" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-523" value="Selesar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="561" y="3364" width="100" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
