@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:30:29.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wsQfl8qi_R9xtMt_yilM" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:32:39.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1FQ664I5qI6Ao0SwsVgV" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="2064" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1111,6 +1111,9 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-452" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-445" target="d0vo8mFOytAZ6KamSjrr-449">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-479" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-445" target="d0vo8mFOytAZ6KamSjrr-474">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-445" value="Pemodelan dan Analisis Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="2840.0000000000005" width="150" height="50.99" as="geometry" />
         </mxCell>
@@ -1128,12 +1131,6 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-449" value="Pemeriksaan Nilai UCR dan Defleksi terhadap kondisi batas" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="2990.0000000000005" width="150" height="50.99" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-453" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Nilai UCR Tiang Pancang Akibat Kombinasi Pembebanan ULS&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40.000000000000014" y="2946.5" width="209.01" height="38.25" as="geometry" />
-        </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-456" value="Nilai Defleksi Akibat Kombinasi Pembebanan SLS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40.000000000000014" y="3002.74" width="209.01" height="38.25" as="geometry" />
-        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-457" value="Optimasi Dimensi Elemen Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="3126.9900000000002" width="150" height="50.99" as="geometry" />
         </mxCell>
@@ -1142,12 +1139,6 @@
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-458" value="&lt;i&gt;Check &lt;/i&gt;nilai UCR (0.8 &amp;lt; UCR&lt;i&gt;&amp;lt; 1.0)&lt;/i&gt;&lt;br&gt;dan&lt;br&gt;nilai defleksi &amp;lt; izin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="265.25" y="3083.99" width="265.5" height="137" as="geometry" />
-        </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-461" value="Reaksi Perletakan&amp;nbsp; Akibat &lt;br&gt;Kombinasi Pembebanan SLS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="53.24000000000001" y="2900.49" width="209.01" height="38.25" as="geometry" />
-        </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-474" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="2890.99" width="240" height="220" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-475" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="742.5" y="2710" width="160" height="150" as="geometry" />
@@ -1167,8 +1158,26 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-420" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-475">
           <mxGeometry width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-476" value="Gaya Dalam Elemen Struktur &lt;br&gt;Akibat Kombinasi Pembeban ULS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="63.24000000000001" y="2846.37" width="209.01" height="38.25" as="geometry" />
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-478" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-35" y="2755.49" width="240" height="234.51000000000022" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-474" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-478">
+          <mxGeometry width="240" height="234.51" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-453" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Nilai UCR Tiang Pancang Akibat Kombinasi Pembebanan ULS&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-478">
+          <mxGeometry x="12.000000000000014" y="120.82000000000016" width="209.01" height="38.25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-456" value="Nilai Defleksi Akibat Kombinasi Pembebanan SLS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-478">
+          <mxGeometry x="12.000000000000014" y="169.05999999999995" width="209.01" height="38.25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-461" value="Reaksi Perletakan&amp;nbsp; Akibat &lt;br&gt;Kombinasi Pembebanan SLS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-478">
+          <mxGeometry x="19.000000000000014" y="66.80999999999995" width="209.01" height="38.25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-476" value="Gaya Dalam Elemen Struktur &lt;br&gt;Akibat Kombinasi Pembeban ULS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-478">
+          <mxGeometry x="19.000000000000014" y="12.690000000000055" width="209.01" height="38.25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-477" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-478">
+          <mxGeometry x="9" y="112.0600000000004" width="220" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
