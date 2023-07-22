@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T09:07:42.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="quVxiy3pGuFARvVKtdG8" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T09:09:21.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7_umKX5Mrr6mLRBwu2tb" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="2314" dy="1038" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2527" dy="1153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -930,7 +930,7 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-452" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d0vo8mFOytAZ6KamSjrr-525" source="d0vo8mFOytAZ6KamSjrr-445" target="d0vo8mFOytAZ6KamSjrr-449">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-483" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="d0vo8mFOytAZ6KamSjrr-525" source="d0vo8mFOytAZ6KamSjrr-457" target="d0vo8mFOytAZ6KamSjrr-428">
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-483" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;jumpStyle=arc;jumpSize=20;" edge="1" parent="d0vo8mFOytAZ6KamSjrr-525" source="d0vo8mFOytAZ6KamSjrr-457" target="d0vo8mFOytAZ6KamSjrr-428">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-457" value="Optimasi Dimensi Elemen Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-525">
@@ -1128,7 +1128,7 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-424" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dimensi Tiang &lt;br&gt;Pancang&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-425">
           <mxGeometry y="115" width="133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-508" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="d0vo8mFOytAZ6KamSjrr-525" source="d0vo8mFOytAZ6KamSjrr-424" target="d0vo8mFOytAZ6KamSjrr-507">
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-508" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=20;" edge="1" parent="d0vo8mFOytAZ6KamSjrr-525" source="d0vo8mFOytAZ6KamSjrr-424" target="d0vo8mFOytAZ6KamSjrr-507">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-509" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d0vo8mFOytAZ6KamSjrr-525" source="d0vo8mFOytAZ6KamSjrr-376" target="d0vo8mFOytAZ6KamSjrr-507">
