@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:20:23.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vpwkjOYJkIH9Tp4A40ja" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:23:06.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eoDEd4op8CQShHNJKaZA" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1676" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1156,6 +1156,9 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-442" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="d0vo8mFOytAZ6KamSjrr-443">
           <mxGeometry width="150" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-452" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-445" target="d0vo8mFOytAZ6KamSjrr-449">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-445" value="Pemodelan dan Analisis Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="2840.0000000000005" width="150" height="50.99" as="geometry" />
         </mxCell>
@@ -1172,6 +1175,15 @@
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-449" value="Pemeriksaan Nilai UCR dan Defleksi terhadap kondisi batas" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="2920.0000000000005" width="150" height="50.99" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-453" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Nilai UCR Tiang Pancang Akibat Kombinasi Pembebanan ULS&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520.99" y="2851.75" width="209.01" height="38.25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-455" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Nilai Defleksi Akibat Kondisi Pembebanan SLS&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520.99" y="2950" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-456" value="Nilai Defleksi Akibat Kondisi Pembebanan SLS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520.99" y="2900" width="209.01" height="38.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
