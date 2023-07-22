@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T01:50:47.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1D-eguR-mlE2lus9ADUH" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T01:51:12.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YbPIJL_wvm_QrwpPu4uy" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
     <mxGraphModel dx="1367" dy="741" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-356" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="2296" width="160" height="233" as="geometry" />
+        </mxCell>
         <mxCell id="RGUvr4DlTQq4D04LTztD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGUvr4DlTQq4D04LTztD-1" target="RGUvr4DlTQq4D04LTztD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1026,6 +1029,9 @@
         <mxCell id="d0vo8mFOytAZ6KamSjrr-233" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="522.25" y="3267" width="100" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-235" target="d0vo8mFOytAZ6KamSjrr-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-235" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Peta Batimetri&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="510.5" y="2314" width="133" height="26" as="geometry" />
         </mxCell>
@@ -1037,9 +1043,6 @@
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-354" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Data Tanah&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="499.83" y="2477" width="133" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-356" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="492" y="2296" width="160" height="233" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
