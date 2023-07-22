@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:19:35.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="594Hd1S38AfRyXh5ypAv" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:20:23.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vpwkjOYJkIH9Tp4A40ja" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1407" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1170,7 +1170,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d0vo8mFOytAZ6KamSjrr-449" value="Pemeriksaan Nilai UCR dan Defleksi" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-449" value="Pemeriksaan Nilai UCR dan Defleksi terhadap kondisi batas" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="2920.0000000000005" width="150" height="50.99" as="geometry" />
         </mxCell>
       </root>
