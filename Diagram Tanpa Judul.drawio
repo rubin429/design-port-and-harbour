@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:39:49.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E4_vZ63cCKmPbn7xdY9V" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:42:10.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="metNrFKgrHwes0NriCx7" version="21.6.3" type="github">
   <diagram id="hsn3fKaMIO-5Dz97zqOI" name="Halaman-1">
-    <mxGraphModel dx="1435" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1148,6 +1148,17 @@
             <mxPoint x="7" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-497" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-458" target="d0vo8mFOytAZ6KamSjrr-495">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-498" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-458" target="d0vo8mFOytAZ6KamSjrr-496">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-500" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d0vo8mFOytAZ6KamSjrr-498">
+          <mxGeometry x="-0.8683" relative="1" as="geometry">
+            <mxPoint x="16" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-458" value="0.8 &amp;lt; UCR&amp;lt; 1.0&lt;br&gt;dan&lt;br&gt;Defleksi &amp;lt; izin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="317.62" y="3086" width="160.75" height="89.01" as="geometry" />
         </mxCell>
@@ -1192,6 +1203,12 @@
         </mxCell>
         <mxCell id="d0vo8mFOytAZ6KamSjrr-492" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d0vo8mFOytAZ6KamSjrr-490" target="d0vo8mFOytAZ6KamSjrr-449">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-495" value="Penulangan Elemen Struktur" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="186.5" y="3221" width="150" height="50.99" as="geometry" />
+        </mxCell>
+        <mxCell id="d0vo8mFOytAZ6KamSjrr-496" value="Perhitungan Kedalaman Tiang Pancang" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="449.5" y="3221" width="150" height="50.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
