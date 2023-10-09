@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T15:58:49.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="msswEqFDLnmTntmFVD54" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T16:08:05.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="h9AZRZK8FHEIcy9UcVf7" version="22.0.4" type="github">
   <diagram name="Halaman-1" id="cng1ZLqmWnadGGmBKYC0">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="1230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fTNR3F5DmJ5eQE5tk-nj-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="fTNR3F5DmJ5eQE5tk-nj-1" target="fTNR3F5DmJ5eQE5tk-nj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTNR3F5DmJ5eQE5tk-nj-1" value="Project" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="13" y="514" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTNR3F5DmJ5eQE5tk-nj-2" value="Struktur Folder Google Drive PTPU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="13" y="300" width="219" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="fTNR3F5DmJ5eQE5tk-nj-3" value="PT Punggawa Utama" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="13" y="434" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTNR3F5DmJ5eQE5tk-nj-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="fTNR3F5DmJ5eQE5tk-nj-4" target="fTNR3F5DmJ5eQE5tk-nj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTNR3F5DmJ5eQE5tk-nj-4" value="Lokasi Kota/Kab" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="176" y="514" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTNR3F5DmJ5eQE5tk-nj-5" value="[No. PO] - [Nama PO]&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="339" y="514" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
