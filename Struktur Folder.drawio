@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T05:19:40.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H83cyCQMh6Z9hbV95bg-" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T06:19:09.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="y2RVaqB40TzZrkIY8yTa" version="22.0.4" type="github">
   <diagram name="Halaman-1" id="cng1ZLqmWnadGGmBKYC0">
-    <mxGraphModel dx="3380" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,16 +126,16 @@
           <mxGeometry x="358" y="1450" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-38" value="PELAKSANAAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1532" width="173" height="60" as="geometry" />
+          <mxGeometry x="360" y="1812" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-39" value="ELEKTRIKAL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="358" y="1624" width="173" height="60" as="geometry" />
+          <mxGeometry x="358" y="1904" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-40" value="PERMIT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="353" y="1711" width="173" height="60" as="geometry" />
+          <mxGeometry x="353" y="1991" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-41" value="LOGISTIK" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="356" y="1798" width="173" height="60" as="geometry" />
+          <mxGeometry x="356" y="2078" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-1" value="[No Surat]/PTPU/[Fungsi Surat]/[Bulan]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1386" y="1026" width="275" height="27" as="geometry" />
@@ -153,22 +153,28 @@
           <mxGeometry x="1163" y="818" width="275" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-10" value="ADMINISTRASI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1885" width="173" height="60" as="geometry" />
+          <mxGeometry x="360" y="2165" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-11" value="KEUANGAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1972" width="173" height="60" as="geometry" />
+          <mxGeometry x="360" y="2252" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-12" value="LAPORAN KINERJA PERUSAHAAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="146" y="2113" width="173" height="60" as="geometry" />
+          <mxGeometry x="146" y="2393" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-14" value="HUMAN RESOURCES" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="2113" width="173" height="60" as="geometry" />
+          <mxGeometry x="360" y="2393" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-15" value="KEUANGAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="358" y="2197" width="173" height="60" as="geometry" />
+          <mxGeometry x="358" y="2477" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-16" value="RENSTRA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="2281" width="173" height="60" as="geometry" />
+          <mxGeometry x="360" y="2561" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-17" value="ADMINISTRASI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="2218" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-18" value="Summary Progress Project - [Nama Mitra]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="583.5" y="2393" width="245" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
