@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T06:50:13.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZSaAnq8tum0PAFK3mBHt" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T06:50:35.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YkeryW0zjIT67tu15df0" version="22.0.4" type="github">
   <diagram name="Halaman-1" id="cng1ZLqmWnadGGmBKYC0">
     <mxGraphModel dx="2950" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,10 +120,10 @@
           <mxGeometry x="-73" y="608" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-35" value="DIVISI PERUSAHAAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="174" y="1349" width="173" height="60" as="geometry" />
+          <mxGeometry x="186" y="1232" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-36" value="PERENCANAAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="386" y="1349" width="173" height="60" as="geometry" />
+          <mxGeometry x="398" y="1232" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-38" value="PELAKSANAAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="360" y="1812" width="173" height="60" as="geometry" />
@@ -213,7 +213,7 @@
           <mxGeometry x="583" y="2726" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-21" value="LAPORAN PEKERJAAN HARIAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="644" y="1434" width="173" height="60" as="geometry" />
+          <mxGeometry x="641" y="1315" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-22" value="Laporan Kinerja Karyawan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="583" y="2816" width="245" height="60" as="geometry" />
@@ -228,7 +228,7 @@
           <mxGeometry x="583" y="2899" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-37" value="Rencana dan Realisasi Target Kerja Harian - Mingguan - Bulanan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="641" y="1344" width="245" height="60" as="geometry" />
+          <mxGeometry x="638" y="1232" width="245" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
