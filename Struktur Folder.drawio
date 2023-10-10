@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T07:43:59.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fYWcM-ERrxr4zDNbACA8" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T07:46:00.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LUGFX2YyRXpW8NFevqxa" version="22.0.4" type="github">
   <diagram name="Halaman-1" id="cng1ZLqmWnadGGmBKYC0">
-    <mxGraphModel dx="2148" dy="353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1873" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,9 @@
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Rj7qyS3aj6NBgZSXDvd5-6" target="Rj7qyS3aj6NBgZSXDvd5-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Rj7qyS3aj6NBgZSXDvd5-6" target="QHoMNRf-pHsTPwlOWmLj-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-6" value="Dokumen ASTRI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1163" y="608" width="176" height="60" as="geometry" />
         </mxCell>
@@ -109,13 +112,13 @@
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-8" value="Permit Doc. Cluster" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1478" y="492.5" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rj7qyS3aj6NBgZSXDvd5-10" value="RFS Documents" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Rj7qyS3aj6NBgZSXDvd5-10" value="CW ATP Phase Document List" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1478" y="569.5" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rj7qyS3aj6NBgZSXDvd5-11" value="OPM ATP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Rj7qyS3aj6NBgZSXDvd5-11" value="Full OPM Phase Document List" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1478" y="646.5" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rj7qyS3aj6NBgZSXDvd5-12" value="RFS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Rj7qyS3aj6NBgZSXDvd5-12" value="RFS Phas Documen List" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1478" y="723.5" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-29" value="Summary Progress Project - [Nama Mitra]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="1" vertex="1">
@@ -297,6 +300,9 @@
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-55" value="Management Control SDM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="748" y="2610" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-58" value="RFS Phas Documen List" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1478" y="796" width="176" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
