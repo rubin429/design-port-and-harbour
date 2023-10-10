@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T06:28:01.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6vcmQIT0H4wRCcPi0yJm" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T06:29:07.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="aPoDyG9_xjyWVWEBzpni" version="22.0.4" type="github">
   <diagram name="Halaman-1" id="cng1ZLqmWnadGGmBKYC0">
     <mxGraphModel dx="2950" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-22" value="Laporan Kinerja Karyawan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="583.5" y="2483" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QHoMNRf-pHsTPwlOWmLj-24" value="Laporan Pengeluaran Ops Kantor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-24" value="Laporan Pengeluaran Bulanan Ops Kantor dan Lapa" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="584" y="2775" width="245" height="60" as="geometry" />
         </mxCell>
       </root>
