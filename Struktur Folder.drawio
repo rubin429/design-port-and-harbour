@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T04:29:50.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="A9jzgU1OIFn8-JjBIjU-" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T05:03:38.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="kYcNKSGjb4teqxLLGfis" version="22.0.4" type="github">
   <diagram name="Halaman-1" id="cng1ZLqmWnadGGmBKYC0">
-    <mxGraphModel dx="1640" dy="59" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3380" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,6 +44,14 @@
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fTNR3F5DmJ5eQE5tk-nj-5" target="Rj7qyS3aj6NBgZSXDvd5-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="fTNR3F5DmJ5eQE5tk-nj-5" target="QHoMNRf-pHsTPwlOWmLj-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1033" y="638" />
+              <mxPoint x="1033" y="832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fTNR3F5DmJ5eQE5tk-nj-5" value="[Tgl PO] - [PO IMPL/PERMIT] - [No. PO] - [Nama PO]&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="507" y="608" width="398" height="60" as="geometry" />
         </mxCell>
@@ -79,20 +87,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rj7qyS3aj6NBgZSXDvd5-7" target="QHoMNRf-pHsTPwlOWmLj-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1362" y="1023" />
+              <mxPoint x="1362" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-7" value="ASTRI PTPU" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1163" y="993" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-8" value="PERMIT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="683" width="176" height="60" as="geometry" />
+          <mxGeometry x="1478" y="492.5" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-10" value="CW ATP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="760" width="176" height="60" as="geometry" />
+          <mxGeometry x="1478" y="569.5" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-11" value="OPM ATP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="837" width="176" height="60" as="geometry" />
+          <mxGeometry x="1478" y="646.5" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-12" value="RFS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="914" width="176" height="60" as="geometry" />
+          <mxGeometry x="1478" y="723.5" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rj7qyS3aj6NBgZSXDvd5-29" value="Summary Progress Project - [Nama Mitra]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="339" y="978" width="245" height="60" as="geometry" />
@@ -135,6 +151,9 @@
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-6" value="[nama lengkap PO project]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1381" y="1106" width="275" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-7" value="[nama lengkap PO project]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="818" width="275" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
