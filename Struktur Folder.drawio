@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T07:16:47.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="p50CHW3Cm4dAQG913lmr" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T07:33:37.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1lBMj4PHZUH0Ycc1aFjV" version="22.0.4" type="github">
   <diagram name="Halaman-1" id="cng1ZLqmWnadGGmBKYC0">
-    <mxGraphModel dx="2550" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,11 +218,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QHoMNRf-pHsTPwlOWmLj-15" target="QHoMNRf-pHsTPwlOWmLj-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="542" y="3142" />
+              <mxPoint x="542" y="3304" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QHoMNRf-pHsTPwlOWmLj-15" target="QHoMNRf-pHsTPwlOWmLj-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="542" y="3142" />
+              <mxPoint x="542" y="3387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-15" value="KEUANGAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="333" y="3112" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-16" value="RENSTRA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="329" y="3373" width="173" height="60" as="geometry" />
+          <mxGeometry x="333" y="3510" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-18" value="Summary Progress Project" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="583" y="2726" width="245" height="60" as="geometry" />
@@ -236,7 +252,7 @@
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-24" value="Laporan Balance Sheet Perusahaan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="568" y="3112" width="292" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QHoMNRf-pHsTPwlOWmLj-26" value="Laporan Invoice Project" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-26" value="Laporan Laba Rugi dan Penghasilan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="568" y="3191" width="292" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-27" value="Rencana Pengembangan SDM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
@@ -259,6 +275,12 @@
         </mxCell>
         <mxCell id="QHoMNRf-pHsTPwlOWmLj-50" value="LAPORAN PEKERJAAN HARIAN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="647" y="1810" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-51" value="Laporan Perubahan Modal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="3274" width="292" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QHoMNRf-pHsTPwlOWmLj-53" value="Laporan Arus Kas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="555" y="3357" width="292" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
