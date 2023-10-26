@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T15:13:47.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3UOsQBqJjWNH44nGhc9b" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T15:35:50.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="d25peZMKANqsHaVHrx2d" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="cng1ZLqmWnadGGmBKYC0">
-    <mxGraphModel dx="1627" dy="-35" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="15" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,7 +337,48 @@
           <mxGeometry x="993" y="2394" width="129" height="17" as="geometry" />
         </mxCell>
         <mxCell id="0tbGpwqPZjLkjblaUyol-1" value="LAPORAN INVOICE&lt;br&gt;PROJECT EMR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2662" y="1114" width="120" height="60" as="geometry" />
+          <mxGeometry x="2748" y="1073" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-3" value="Spreadsheet&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2742" y="1043" width="130" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-4" value="Summary PO &amp;amp; Termin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="1208" width="127" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tbGpwqPZjLkjblaUyol-5" target="0tbGpwqPZjLkjblaUyol-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-5" value="Database PO Implementasi dan Termin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2301" y="1026" width="137" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-6" value="Database PO Permit dan Termin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2479" y="1031" width="145" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-7" value="Document PO &lt;br&gt;Implementasi" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="2284.5" y="924" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-8" value="Document PO &lt;br&gt;Permit" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="2466.5" y="924" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0tbGpwqPZjLkjblaUyol-8" target="0tbGpwqPZjLkjblaUyol-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0tbGpwqPZjLkjblaUyol-7" target="0tbGpwqPZjLkjblaUyol-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0tbGpwqPZjLkjblaUyol-6" target="0tbGpwqPZjLkjblaUyol-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tbGpwqPZjLkjblaUyol-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2283.0301735617895" y="1083" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-28" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Database PO dan Termijn&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;&quot;&gt;Subject [sesuai nama PO]&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Nomor PO&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Tanggal PO&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Subtotal&lt;/li&gt;&lt;li style=&quot;&quot;&gt;VAT&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Total&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Termin (if permit: DP 50% dan RFS 50%; implementasi: DP 20%, CW ATP 25%, FULL OPM 15%, &lt;font color=&quot;#ff0000&quot;&gt;RFS 30%, Retensi 10%&lt;/font&gt;)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="983" width="274" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="0tbGpwqPZjLkjblaUyol-31" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Summary PO dan Termijn&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;&quot;&gt;Subject [sesuai nama PO]&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Nomor PO&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Tanggal PO&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Subtotal&lt;/li&gt;&lt;li style=&quot;&quot;&gt;VAT&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Total&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Termin (if permit: DP 50% dan RFS 50%; implementasi: DP 20%, CW ATP 25%, FULL OPM 15%, RFS 30%, Retensi 10%)&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1956" y="1226" width="298" height="209" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
